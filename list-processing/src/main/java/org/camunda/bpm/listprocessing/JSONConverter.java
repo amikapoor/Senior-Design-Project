@@ -20,7 +20,7 @@ public class JSONConverter {
         // create an array called datasets
         JsonArray datasets = new JsonArray();
 
-        File file = new File("C:\\test_stackoverflow\\list.txt");
+        File file = new File("./input.txt");
 
         try (BufferedReader br = new BufferedReader(new FileReader(file)))  {
             String line;
