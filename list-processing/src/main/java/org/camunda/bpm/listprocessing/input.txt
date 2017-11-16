@@ -1,0 +1,1037 @@
+JOB_ID~DOCNUM~FULL_NAME~ADDRESS1~ADDRESS2~ADDRESS3~CSZ~PC
+00000000~000001~eSTER eLLARD~309 FREEDOM DR~~~ASHEBORO NC 27203-5642~01
+00000000~000002~JESTINA dETZLER~611 LYNDHURST ST~~~bALTIMORE MD 21229-1950~01
+00000000~000003~FAFAEL NICOLAS ZEGAR~1156 HIGHLAND LICK RD PH~~~RUSSELLVILLE KY 42276-9210~01
+00000000~000004~COLORTRENDS PAINTING~417 AVONDALE RD~~~HUNTINGTON WV 25705-1524~01
+00000000~000005~MORRIS ANDERSON CARS~2427 SARATOGA RD~~~WAUKESHA WI 53186-1617~01
+00000000~000006~BLUE TRIANGLE COUNSELING LLC~618 MANDARIN ORANGE CT~~~ORANGE CITY FL 32763-6646~01
+00000000~000007~D ERIC HESS~2664 SW 17TH AVE~~~MIAMI FL 33133-2523~01
+00000000~000008~LOREN NUNEZ~300 CANYON CREEK RD~~~HAMILTON MT 59840-9341~01
+00000000~000009~AURA GILLMAN~272 S 375 E # A~~~CLEARFIELD UT 84015-1056~01
+00000000~000010~MORRIS ANDERSON CARS~2794 BORKSHIRE LN~~~AURORA IL 60502-4423~01
+00000000~000011~Mr. Sample011 Person011~1 Dewart Rd~~~Greenwich CT  06830~01
+00000000~000012~Mr & Mrs Sample012 Person012~4 Nutcracker Ln~~~Westport CT  06880~01
+00000000~000013~Mr & Mrs Sample013 Person013~24 Hooker Ln~~~Cos Cob CT  06807~01
+00000000~000014~Mr. Sample014 Person014~1404 Stratfield Rd~~~Fairfield CT  06825~01
+00000000~000015~Ms. Sample015 Person015~18 Park St~~~Westport CT  06880~01
+00000000~000016~Mr & Mrs Sample016 Person016~6 Snowflake Ln~~~Westport CT  06880~01
+00000000~000017~Mr. & Mrs. Sample017 Person017~1 Otter Trl~~~Westport CT  06880~01
+00000000~000018~Ms. Sample018 Person018~Unit 610~30 Rockefeller Plz~~New York NY 10112~01
+00000000~000019~Mr. Sample019 Person019~271 N Maple Ave~~~Greenwich CT  06830~01
+00000000~000020~Ms. Sample020 Person020~57 High Ridge Rd~~~Fairfield CT  06825~01
+00000000~000021~Mr & Mrs Sample021 Person021~4 Jay Rd~~~Stamford CT  06905~01
+00000000~000022~Mr. & Mrs. Sample022 Person022~8 Armstrong Ln~~~Riverside CT  06878~01
+00000000~000023~Mrs. Sample023 Person023~163 E 81st St~~~New York NY    10028~01
+00000000~000024~Mr & Mrs Sample024 Person024~70 Verna Hill Rd~~~Fairfield CT  06824~01
+00000000~000025~Mr. Sample025 Person025~20 Tannery Ln N~~~Weston CT  06883~01
+00000000~000026~Mr. Sample026 Person026~The Mill~107 River Run~~Greenwich CT  06831~01
+00000000~000027~Dr. Sample027 Person027~6810 Stichter St~~~Dallas TX  75230~01
+00000000~000028~Ms. Sample028 Person028~3030 Park Ave~~~Bridgeport CT  06604~01
+00000000~000029~Mr & Mrs Sample029 Person029~935 Harbor Rd~~~Southport CT  06890~01
+00000000~000030~Mr & Mrs Sample030 Person030~18 Crown Ln~~~Greenwich CT  06831~01
+00000000~000031~Mr & Mrs Sample031 Person031~53 Westwood Rd~~~Fairfield CT  06825~01
+00000000~000032~Ms. Sample032 Person032~12 Greenwood Ln~~~Westport CT  06880~01
+00000000~000033~Ms. Sample033 Person033~18 Stanwich Ln~~~Greenwich CT  06830~01
+00000000~000034~Mrs. Sample034 Person034~1407 Redding Rd~~~Fairfield CT  06824~01
+00000000~000035~Ms. Sample035 Person035~2 Bluewater Hl~~~Westport CT  06880~01
+00000000~000036~Ms. Sample036 Person036~28 Burr School Rd~~~Westport CT  06880~01
+00000000~000037~Mr & Mrs Sample037 Person037~149 North Ave~~~Westport CT  06880~01
+00000000~000038~Mr & Mrs Sample038 Person038~6 Tower Rdg~~~Westport CT  06880~01
+00000000~000039~Mr. Sample039 Person039~212 Center St~~~Southport CT  06890~01
+00000000~000040~Ms. Sample040 Person040~211 Milbank Ave~~~Greenwich CT  06830~01
+00000000~000041~Mr & Mrs Sample041 Person041~406 Harbor Rd~~~Southport CT  06890~01
+00000000~000042~Mr & Mrs Sample042 Person042~174 Old South Rd~~~Southport CT  06890~01
+00000000~000043~Mrs. Sample043 Person043~11 Riverfield Dr~~~Weston CT  06883~01
+00000000~000044~Mr. Sample044 Person044~Unit 2~312 Main Ave~~Norwalk CT  06851~01
+00000000~000045~Mr & Mrs Sample045 Person045~25 Rock Major Rd~~~Fairfield CT  06824~01
+00000000~000046~Ms. Sample046 Person046~Apt 29~300 Danbury Rd~~Wilton CT  06897~01
+00000000~000047~Mrs. Sample047 Person047~202 Southport Woods Dr~~~Southport CT  06890~01
+00000000~000048~Ms. Sample048 Person048~Pathfinder's Travel~49 Riverside Ave~~Westport CT  06880~01
+00000000~000049~Mrs. Sample049 Person049~10 Indian Spring Rd~~~Norwalk CT  06853~01
+00000000~000050~Mr & Nrs Sample050 Person050~67 Old Hwy~~~Wilton CT  06897~01
+00000000~000051~Mr & Mrs Sample051 Person051~67 Old Hwy~~~Wilton CT  06897~01
+00000000~000052~Ms. Sample052 Person052~Apt 3H~110 Sullivan St~~New York NY 10012~01
+00000000~000053~Mr & Mrs Sample053 Person053~263 Oenoke Rdg~~~New Canaan CT  06840~01
+00000000~000054~Mrs. Sample054 Person054~PO Box 1304~~~Weston CT  06883~01
+00000000~000055~Dr & Mrs Sample055 Person055~125 Compo Rd S~~~Westport CT  06880~01
+00000000~000056~Mr. Sample056 Person056~19 Keeler Ave~~~Norwalk CT  06854~01
+00000000~000057~Mr. Sample057 Person057~12 Hedgerow Ln~~~Greenwich CT  06831~01
+00000000~000058~Mr. Sample058 Person058~444 Farms Rd~~~Greenwich CT    06831~01
+00000000~000059~Mr. Sample059 Person059~14 Elaine St~~~Norwalk CT  06850~01
+00000000~000060~Mr & Mrs Sample060 Person060~21 Meadowbank Rd~~~Old Greenwich CT  06870~01
+00000000~000061~Mr. Sample061 Person061~105 Cat Rock Rd~~~Cos Cob CT  06807~01
+00000000~000062~Mr. Sample062 Person062~222 Willow St~~~Southport CT  06890~01
+00000000~000063~Ms. Sample063 Person063~14 Overlook Rd~~~Westport CT  06880~01
+00000000~000064~Ms. Sample064 Person064~5 Tulip Tree Ln~~~Darien CT  06820~01
+00000000~000065~Mr & Mrs Sample065 Person065~555 Eleven Oclock Rd~~~Fairfield CT  06824~01
+00000000~000066~Mr & Mrs Sample066 Person066~2 MacGregor Dr~~~Stamford CT  06902~01
+00000000~000067~Ms. Sample067 Person067~160 Harbor Rd~~~Southport CT  06890~01
+00000000~000068~Mr & Mrs Sample068 Person068~19 Richmond Dr~~~Old Greenwich CT  06870~01
+00000000~000069~Mr & Mrs Sample069 Person069~707 Lake Ave~~~Greenwich CT  06830~01
+00000000~000070~Mrs. Sample070 Person070~5 Woodley Ln~~~Norwalk CT  06851~01
+00000000~000071~Mr. Sample071 Person071~21 Whipstick Rd~~~Wilton CT  06897~01
+00000000~000072~Dr. Sample072 Person072~179 Cherry St~~~New Canaan CT  06840~01
+00000000~000073~Mrs. Sample073 Person073~560 Lake Ave~~~Greenwich CT  06830~01
+00000000~000074~Mrs. Sample074 Person074~44 Morehouse Ln~~~Southport CT  06890~01
+00000000~000075~Dr. Sample075 Person075~Apt B~914 1/2 Whalley Ave~~New Haven CT  06515~01
+00000000~000076~Mr & Mrs Sample076 Person076~33 Byram Dr~~~Greenwich CT  06830~01
+00000000~000077~Mr & Mrs Sample077 Person077~18 Pequot Trl~~~Westport CT  06880~01
+00000000~000078~Dr & Mrs Sample078 Person078~70 Kenilworth Dr E~~~Stamford CT  06902~01
+00000000~000079~Mr & Mrs Sample079 Person079~213 Comstock Hill Rd~~~New Canaan CT  06840~01
+00000000~000080~Prof.& Mrs. Sample080 Person08~45 Bayberry Rd~~~Hamden CT  06517~01
+00000000~000081~Mr. & Mrs. Sample081 Person081~32 Stonybrook Rd~~~Westport CT  06880~01
+00000000~000082~Mr & Mrs Sample082 Person082~48 Round Hill Rd~~~Greenwich CT  06831~01
+00000000~000083~Ms. Sample083 Person083~22 Carleton St~~~Fairfield CT  06824~01
+00000000~000084~Mr. Sample084 Person084~38 Davenport Ridge Rd~~~Stamford CT  06903~01
+00000000~000085~Mr. Sample085 Person085~9 Cudlipp St~~~Norwalk CT  06853~01
+00000000~000086~Mr & Mrs Sample086 Person086~96 Carmalt Rd~~~Hamden CT  06517~01
+00000000~000087~Ms. Sample087 Person087~88 Spring Hill Rd~~~Westport CT  06880~01
+00000000~000088~Mr & Mrs Sample088 Person088~264 Penfield Rd~~~Fairfield CT  06824~01
+00000000~000089~Ms. Sample089 Person089~7 Bradley St~~~Westport CT  06880~01
+00000000~000090~Mrs. Sample090 Person090~435 Pequot Ave~~~Southport CT  06890~01
+00000000~000091~Mr & Mrs Sample091 Person091~111 Pequot Ave~~~Southport CT  06890~01
+00000000~000092~Mr. Sample092 Person092~406 Taft Ave~~~Bridgeport CT  06604~01
+00000000~000093~Mr & Mrs Sample093 Person093~45 Nutmeg Dr~~~Greenwich CT  06831~01
+00000000~000094~Mrs. Sample094 Person094~190 Olmstead Hill Rd~~~Wilton CT  06897~01
+00000000~000095~Mr & Mrs Sample095 Person095~823 Ridgefield Rd~~~Wilton CT  06897~01
+00000000~000096~Mr & Mrs Sample096 Person096~105 Field Point Dr~~~Fairfield CT  06824~01
+00000000~000097~Mr & Mrs Sample097 Person097~130 N Cedar Rd~~~Fairfield CT  06824~01
+00000000~000098~Ms. Sample098 Person098~10 Sparrow Ln~~~Greenwich CT  06830~01
+00000000~000099~Ms. Sample099 Person099~18 Cummings Ave~~~Stamford CT  06902~01
+00000000~000100~Mr & Mrs Sample100 Person100~75 Gray Rock Rd~~~Southport CT  06890~01
+00000000~000101~Rev & Mrs Sample101 Person101~3192 Bronson Rd~~~Fairfield CT  06824~01
+00000000~000102~Ms. Sample102 Person102~12 Charcoal Hill Rd~~~Westport CT  06880~02
+00000000~000103~Mr & Mrs Sample103 Person103~15 Huckleberry Ln~~~Greenwich CT  06831~03
+00000000~000104~Mr & Mrs Sample104 Person104~14 Dogwood Ln~~~Westport CT  06880~04
+00000000~000105~Ms. Sample105 Person105~33 Red Coat Rd~~~Westport CT  06880~05
+00000000~000106~Ms. Sample106 Person106~100 Highview Ave~~~Stamford CT  06907~06
+00000000~000107~Mr. Sample107 Person107~21 Muriel St~~~Norwalk CT  06851~07
+00000000~000108~Mr. Sample108 Person108~331 Wormwood Rd~~~Fairfield CT  06824~01
+00000000~000109~Mr. Sample109 Person109~195 Old South Rd~~~Southport CT  06890~01
+00000000~000110~Mr. Sample110 Person110~66 Cow Path Dr~~~Stamford CT  06902~01
+00000000~000111~Mr & Mrs Sample111 Person111~28 Silent Grv N~~~Westport CT  06880~01
+00000000~000112~Mr & Mrs Sample112 Person112~5 Druid Ln~~~Riverside CT  06878~01
+00000000~000113~Mr & Mrs Sample113 Person113~13 Tokeneke Trl~~~Darien CT  06820~01
+00000000~000114~Mr & Mrs Sample114 Person114~25 Stephanie Ln~~~Darien CT  06820~01
+00000000~000115~Mr. Sample115 Person115~27 Lynn Ct~~~Darien CT  06820~01
+00000000~000116~Mr. Sample116 Person116~103 Peck Rd~~~Bethany CT  06524~01
+00000000~000117~Mr & Mrs Sample117 Person117~32 Wright St~~~Westport CT  06880~02
+00000000~000118~Mr & Mrs Sample118 Person118~575 Hulls Farm Rd~~~Southport CT  06890~02
+00000000~000119~Mrs. Sample119 Person119~PO Box 1140~~~Southport CT    06890~02
+00000000~000120~Mrs. Sample120 Person120~Apt 1C~244 West St~~Mount Kisco NY 10549~03
+00000000~000121~Dr. & Mrs. Sample121 Person121~54 Compo Rd N~~~Westport CT  06880~01
+00000000~000122~Mr. Sample122 Person122~65 Whipstick Rd~~~Ridgefield CT  06877~01
+00000000~000123~Mr & Mrs Sample123 Person123~114 Greenwich Hills Dr~~~Greenwich CT  06831~01
+00000000~000124~Mr & Mrs Sample124 Person124~1 Orchard Hill Ct~~~Westport CT  06880~01
+00000000~000125~Ms. Sample125 Person125~15 Turkey Meadow Rd~~~Trumbull CT  06611~01
+00000000~000126~Mr. Sample126 Person126~17 Whippoorwill Ln~~~Westport CT  06880~02
+00000000~000127~Mr. Sample127 Person127~22 Covewood Dr~~~Norwalk CT  06853~02
+00000000~000128~Mr. Sample128 Person128~12 Ann St~~~Old Greenwich CT  06870~10
+00000000~000129~Mrs. Sample129 Person129~93 Southport Woods Dr~~~Southport CT  06890~01
+00000000~000130~Mrs. Sample130 Person130~32 Southport Woods Dr~~~Southport CT  06890~01
+00000000~000131~Mr & Mrs Sample131 Person131~113 Keeler Ave~~~Bridgeport CT  06606~02
+00000000~000132~Mr & Mrs Sample132 Person132~1 Tokeneke Beach Dr~~~Darien CT  06820~03
+00000000~000133~Ms. Sample133 Person133~199 Mountain Rd~~~Wilton CT  06897~01
+00000000~000134~Mr & Mrs Sample134 Person134~1 White Woods Ln~~~Westport CT  06880~02
+00000000~000135~Mr & Mrs Sample135 Person135~10 Bluewater Hl S~~~Westport CT  06880~03
+00000000~000136~Mr & Mrs Sample136 Person136~646 West Rd~~~New Canaan CT  06840~01
+00000000~000137~Mrs. Sample137 Person137~101 Field Point Dr~~~Fairfield CT  06824~02
+00000000~000138~Mrs. Sample138 Person138~108 Northwood Rd~~~Fairfield CT  06825~03
+00000000~000139~Mr & Mrs Sample139 Person139~Daycroft School~10 Rock Ridge Ave~~Greenwich CT  06831~01
+00000000~000140~Mr & Mrs Sample140 Person140~6 Osee Pl~~~Cos Cob CT  06807~02
+00000000~000141~Mr. Sample141 Person141~Talking Drums, Inc.~400 Middlefield St~~Middletown CT  06457~03
+00000000~000142~Mr & Mrs Sample142 Person142~465 Round Hill Rd~~~Greenwich CT  06831~01
+00000000~000143~Ms. Sample143 Person143~105 Long Lots Rd~~~Westport CT  06880~02
+00000000~000144~Mr. Sample144 Person144~296 Old Church Rd~~~Greenwich CT  06830~03
+00000000~000145~Mr & Mrs Sample145 Person145~1069 Briarwood Ave~~~Bridgeport CT  06604~01
+00000000~000146~Ms. Sample146 Person146~6 Saddle Ridge Rd~~~Darien CT  06820~02
+00000000~000147~Ms. Sample147 Person147~35 Donna Dr~~~Norwalk CT  06854~03
+00000000~000148~Mr. Sample148 Person148~1 Echo Hill Rd~~~New Canaan CT  06840~01
+00000000~000149~Mrs. Sample149 Person149~117 Harbor Rd~~~Westport CT  06880~02
+00000000~000150~Mr. Sample150 Person150~94 Pecksland Rd~~~Greenwich CT  06831~03
+00000000~000151~Ms. Sample151 Person151~25 Pheasant Run~~~Darien CT  06820~01
+00000000~000152~Mr & Mrs Sample152 Person152~179 Valley Rd~Test152 Co.~~Cos Cob CT  06807~02
+00000000~000153~Ms. Sample153 Person153~698 Old Post Rd~9 Ocean Reef Dr~~Fairfield CT  06824~03
+00000000~000154~Mr & Mrs Sample154 Person154~Test154 Co.~~~Fairfield CT  06824~01
+00000000~000155~Mr. Sample155 Person155~Test155 Co.~155 Nonexistent Rd.~~Bridgeport CT  06606~02
+00000000~000156~Mr. Sample156 Person156~Test156 Co.~20 Dayton Ave~~Greenwich CT  06830~03
+00000000~000157~Mr & Mrs Sample157 Person157~Southport CT  06890~~~Southport CT  06890~01
+00000000~000158~Mr & Mrs Sample158 Person158~158 Nonexistent Rd.~~~Westport CT  06880~02
+00000000~000159~Mr & Mrs Sample159 Person159~36 Division St~~~Easton CT  06612~03
+00000000~000160~Mr & Mrs Sample160 Person160~7 Sylvan Ln~~~Old Greenwich CT  06870~01
+00000000~000161~Mr. Sample161 Person161~464 Lake Ave~~~Bridgeport CT  06605~02
+00000000~000162~Dr. & Mrs. Sample162 Person162~26 Serendipity Ln~~~Wilton CT  06897~03
+00000000~000163~Ms. Sample163 Person163~187 Longview Ave~~~Fairfield CT  06824~01
+00000000~000164~Mr & Mrs Sample164 Person164~440 Primrose Ln~~~Fairfield CT  06825~02
+00000000~000165~Mr & Mrs Sample165 Person165~553 Durham Rd~~~Madison CT  06443~03
+00000000~000166~Fr. Sample166 Person166~St Paul's On The Green~60 East Ave~~Norwalk CT  06851~01
+00000000~000167~Mr. Sample167 Person167~16 Claremont Rd~~~Scarsdale NY 10583~02
+00000000~000168~Ms. Sample168 Person168~91 Strawberry Hill Ave~~~Stamford CT  06902~03
+00000000~000169~Ms. Sample169 Person169~91 Strawberry Hill Ave~~~Stamford CT  06902~01
+00000000~000170~Mr & Mrs Sample170 Person170~125 Brett Ln~~~Fairfield CT  06824~02
+00000000~000171~Mr & Mrs Sample171 Person171~336 Surrey Ln~~~Fairfield CT  06824~03
+00000000~000172~Ms. Sample172 Person172~280 Texas Ave~~~Bridgeport CT  06610~01
+00000000~000173~Mr & Mrs Sample173 Person173~PO Box 570~~~Bedford NY 10506~02
+00000000~000174~Mr & Mrs Sample174 Person174~53 Dewart Rd~~~Greenwich CT  06830~03
+00000000~000175~Ms. Sample175 Person175~9 Marc Ln~~~Westport CT  06880~01
+00000000~000176~Mr & Mrs Sample176 Person176~5210 Congress St~~~Fairfield CT  06824~02
+00000000~000177~Mr & Mrs Sample177 Person177~54 Old Mill Rd~~~Greenwich CT  06831~03
+00000000~000178~Mr & Mrs Sample178 Person178~1 Todd Ln~~~Stamford CT  06905~01
+00000000~000179~Mrs. Sample179 Person179~31 Guyer Rd~~~Westport CT  06880~02
+00000000~000180~Mrs. Sample180 Person180~6 Rainbow Rd~~~Norwalk CT  06851~03
+00000000~000181~Ms. Sample181 Person181~128 Warncke Rd~~~Wilton CT  06897~01
+00000000~000182~Ms. Sample182 Person182~Apt 4~14 Bedford Ave~~Norwalk CT  06850~02
+00000000~000183~Ms. Sample183 Person183~82 Roseville Rd~~~Westport CT  06880~03
+00000000~000184~Mr & Mrs Sample184 Person184~PO Box 876~~~Southport CT  06890~01
+00000000~000185~Mr. Sample185 Person185~386 Halley Ave~~~Fairfield CT  06825~02
+00000000~000186~Mr. Sample186 Person186~1980 Stratfield Rd~~~Fairfield CT  06825~03
+00000000~000187~Mr & Mrs Sample187 Person187~26 Cloverly Cir~~~Norwalk CT  06855~01
+00000000~000188~Mr & Mrs Sample188 Person188~2 Gorham Ave~~~Westport CT  06880~02
+00000000~000189~Mr & Mrs Sample189 Person189~31 Burnham Hl~~~Westport CT  06880~03
+00000000~000190~Mr & Mrs Sample190 Person190~6 Tod Rd~~~Norwalk CT  06851~01
+00000000~000191~Mr. Sample191 Person191~3 Wilson Ridge Rd~~~Darien CT  06820~02
+00000000~000192~Dr & Mrs Sample192 Person192~8 Gedney Way~~~Chappaqua NY 10514~03
+00000000~000193~Mr & Mrs Sample193 Person193~37 Whitney Gln~~~Westport CT  06880~01
+00000000~000194~Mrs. Sample194 Person194~1086 Cedar Rd~~~Southport CT  06890~02
+00000000~000195~Mr & Mrs Sample195 Person195~523 Harbor Rd~~~Southport CT  06890~03
+00000000~000196~Mr. Sample196 Person196~11 Birch Ln~~~Greenwich CT  06830~01
+00000000~000197~Mrs. Sample197 Person197~28 Darbrook Rd~~~Westport CT  06880~02
+00000000~000198~Mr & Mrs Sample198 Person198~70 Woodland Rd~~~Fairfield CT  06825~03
+00000000~000199~Mr & Mrs Sample199 Person199~100 Harvest Commons~~~Westport CT  06880~04
+00000000~000200~Mr. Sample200 Person200~PO Box 775~~~Sandy Hook CT  06482~05
+00000000~000201~Mr. & Mrs. Sample201 Person201~53 Ledgewood Dr~~~Norwalk CT  06850~01
+00000000~000202~Mr & Mrs Sample202 Person202~75 Redding Rd~~~Fairfield CT  06824~01
+00000000~000203~Mr. Sample203 Person203~10 Field Point Cir~~~Greenwich CT  06830~01
+00000000~000204~Mr. Sample204 Person204~4 Gorham Ave~~~Westport CT  06880~01
+00000000~000205~Mr. Sample205 Person205~Connecticut Composers, I~PO Box 186~~Middletown CT  06457~01
+00000000~000206~Mr & Mrs Sample206 Person206~11 Quentin Rd~~~Westport CT  06880~01
+00000000~000207~Mr & Mrs Sample207 Person207~521 Riversville Rd~~~Greenwich CT  06831~01
+00000000~000208~Ms. Sample208 Person208~125 Skunk Ln~~~Wilton CT  06897~01
+00000000~000209~Ms. Sample209 Person209~Apt 3~143 Seaside Ave~~Stamford CT  06902~01
+00000000~000210~Ms. Sample210 Person210~42 Ferris Ave~~~Norwalk CT  06854~01
+00000000~000211~Mr. Sample211 Person211~PO Box 2684~~~Westport CT  06880~01
+00000000~000212~Ms. Sample212 Person212~11a Prospect Rd~~~Westport CT  06880~01
+00000000~000213~Mr & Mrs Sample213 Person213~375 Sasco Hill Rd~~~Fairfield CT  06824~01
+00000000~000214~Mr. Sample214 Person214~41 Will Merry Ln~~~Greenwich CT  06831~01
+00000000~000215~Mrs. Sample215 Person215~7 Charcoal Hill Rd~~~Westport CT  06880~01
+00000000~000216~Mr. Sample216 Person216~78 Manor Rd~~~Ridgefield CT  06877~01
+00000000~000217~Mr. Sample217 Person217~17 Oakland Rd~~~Maplewood NJ  07040~01
+00000000~000218~Ms. Sample218 Person218~5 Witch Ln~~~Norwalk CT  06853~01
+00000000~000219~Mr & Mrs Sample219 Person219~241 Bedford Rd~~~Greenwich CT  06831~01
+00000000~000220~Mr. Sample220 Person220~50 Binney Ln~~~Old Greenwich CT  06870~01
+00000000~000221~Mr. Sample221 Person221~50 Fairfield Rd~~~Greenwich CT  06830~01
+00000000~000222~Ms. Sample222 Person222~78 Hayestown Rd~~~Danbury CT  06811~01
+00000000~000223~Mrs. Sample223 Person223~10 Yankee Hill Rd~~~Westport CT  06880~01
+00000000~000224~Ms. Sample224 Person224~PO Box 3172~~~Westport CT  06880~01
+00000000~000225~Ms. Sample225 Person225~22 River View Rd~~~Westport CT  06880~01
+00000000~000226~Mr & Mrs Sample226 Person226~PO Box 1161~~~Southport CT    06890~01
+00000000~000227~Mr. Sample227 Person227~130a Woodside Grn~~~Stamford CT  06905~01
+00000000~000228~Mr & Mrs Sample228 Person228~41 Lyons Plain Rd~~~Weston CT  06883~01
+00000000~000229~Mr. Sample229 Person229~282 E Lake Rd~~~Penn Yan NY 14527~01
+00000000~000230~Mr & Mrs Sample230 Person230~50 Mills Ln~~~Easton CT  06612~01
+00000000~000231~Mr & Mrs Sample231 Person231~68 Greenleaf Ave~~~Darien CT  06820~02
+00000000~000232~Mr. Sample232 Person232~6 Dew Ln~~~Darien CT  06820~02
+00000000~000233~Mr & Mrs Sample233 Person233~68 Orchard Dr~~~Greenwich CT  06830~02
+00000000~000234~Ms. Sample234 Person234~8 Silver Ledge Rd~~~Norwalk CT  06850~02
+00000000~000235~Mrs. Sample235 Person235~130 Burr St~~~Fairfield CT  06824~02
+00000000~000236~Mr & Mrs Sample236 Person236~537 Verna Hill Rd~~~Fairfield CT  06824~02
+00000000~000237~Mr & Mrs Sample237 Person237~82 Byram Shore Rd~~~Greenwich CT  06830~02
+00000000~000238~Mr & Mrs Sample238 Person238~7 Deer Ln~~~Greenwich CT  06830~02
+00000000~000239~Ms. Sample239 Person239~75 Connecticut Ave~~~Greenwich CT  06830~02
+00000000~000240~Ms. Sample240 Person240~666 Hope St~~~Stamford CT  06907~02
+00000000~000241~Mr & Mrs Sample241 Person241~108 Lookout Dr N~~~Fairfield CT  06825~02
+00000000~000242~Mr. Sample242 Person242~26 Maple Ave S~~~Westport CT  06880~02
+00000000~000243~Mr & Mrs Sample243 Person243~939 Hillside Rd~~~Fairfield CT  06824~02
+00000000~000244~Mr. Sample244 Person244~155 Redding Rd~~~Fairfield CT  06824~02
+00000000~000245~Dr. Sample245 Person245~179 Rivercliff Dr~~~Milford CT  06460~02
+00000000~000246~Ms. Sample246 Person246~2 Hale St~~~Westport CT  06880~02
+00000000~000247~Mr & Mrs Sample247 Person247~109 Harvest Commons~~~Westport CT  06880~02
+00000000~000248~Mr. Sample248 Person248~11 Birchwood Dr~~~Fairfield CT  06824~02
+00000000~000249~Mr & Mrs Sample249 Person249~125 Hulls Farm Rd~~~Southport CT  06890~02
+00000000~000250~Mr. Sample250 Person250~Apt 427~2900 Main St~~Bridgeport CT  06606~02
+00000000~000251~Ms. Sample251 Person251~90 Florence Ln~~~Fairfield CT  06824~02
+00000000~000252~Mr & Mrs Sample252 Person252~100 W Shepard Ave~~~Hamden CT  06514~02
+00000000~000253~Mr. Sample253 Person253~Apt 2~2744 Fairfield Ave~~Bridgeport CT  06605~02
+00000000~000254~Mr & Mrs Sample254 Person254~109 Timber Ridge Rd~~~Stratford CT  06614~02
+00000000~000255~Mr & Mrs Sample255 Person255~944 Pequot Ave~~~Southport CT  06890~02
+00000000~000256~Mrs. Sample256 Person256~11 Meadow Ln~~~New Canaan CT  06840~02
+00000000~000257~Mr & Mrs Sample257 Person257~10 Gilliam Ln~~~Riverside CT  06878~02
+00000000~000258~Mr & Mrs Sample258 Person258~2 Captains Walk~~~Norwalk CT  06853~02
+00000000~000259~Ms. Sample259 Person259~109 Timber Ridge Rd~~~Stratford CT  06614~02
+00000000~000260~Mr & Mrs Sample260 Person260~148 Seaton Rd~~~Stamford CT  06902~02
+00000000~000261~Mr. Sample261 Person261~29 November Trl~~~Weston CT  06883~03
+00000000~000262~Dr. & Mrs. Sample262 Person262~10 Salem Rd~~~Pound Ridge NY 10576~03
+00000000~000263~Sample263 Person263~10 Salem Rd~~~Pound Ridge NY 10576~03
+00000000~000264~Ms. Sample264 Person264~24 Mohegan Ave~~~Stamford CT  06902~03
+00000000~000265~Mr & Mrs Sample265 Person265~51 Mill Hill Ln~~~Southport CT    06890~03
+00000000~000266~Mr & Mrs Sample266 Person266~35 Old Stratfield Rd~~~Fairfield CT  06825~03
+00000000~000267~Mr. Sample267 Person267~144 Alpine St~~~Bridgeport CT  06610~03
+00000000~000268~Mr & Mrs Sample268 Person268~20 Butler St~~~Cos Cob CT  06807~03
+00000000~000269~Mr. Sample269 Person269~25 Ridge Rd~~~Bristol CT  06010~03
+00000000~000270~Mr. Sample270 Person270~36 Binney Ln~~~Old Greenwich CT  06870~03
+00000000~000271~Mr. Sample271 Person271~247 Barlow Rd~~~Fairfield CT  06824~03
+00000000~000272~Mr. Sample272 Person272~99 Sterling Rd~~~Greenwich CT  06831~03
+00000000~000273~Mr. Sample273 Person273~23 Butternut Pl~~~Stamford CT  06903~03
+00000000~000274~Ms. Sample274 Person274~4 Turkey Hill Ln~~~Westport CT  06880~03
+00000000~000275~Mr & Mrs Sample275 Person275~111 Lake Wind Rd~~~New Canaan CT  06840~03
+00000000~000276~Mr & Mrs Sample276 Person276~271 Sturges Hwy~~~Westport CT  06880~03
+00000000~000277~Mr & Mrs Sample277 Person277~10 Mead Point Dr~~~Greenwich CT  06830~03
+00000000~000278~Mr & Mrs Sample278 Person278~17 Intervale Pl~~~Greenwich CT    06830~03
+00000000~000279~Ms. Sample279 Person279~60 Saint Marks Pl~~~New York NY 10003~03
+00000000~000280~Ms. Sample280 Person280~110 E Elm St~~~Greenwich CT  06830~03
+00000000~000281~Mr & Mrs Sample281 Person281~27 Fairfield Rd~~~Greenwich CT  06830~03
+00000000~000282~Mr & Mrs Sample282 Person282~13 Hitchcock Rd~~~Westport CT  06880~03
+00000000~000283~Ms. Sample283 Person283~5 Maher Ave~~~Greenwich CT  06830~03
+00000000~000284~Mr & Mrs Sample284 Person284~116 Milwaukee Ave~~~Bethel CT  06801~03
+00000000~000285~Mrs. Sample285 Person285~6 Clover Ln~~~Westport CT  06880~03
+00000000~000286~Mrs. Sample286 Person286~332 Wakeman Rd~~~Fairfield CT  06824~03
+00000000~000287~Dr & Mrs Sample287 Person287~8 Stoney Point Rd~~~Westport CT  06880~03
+00000000~000288~Mrs. Sample288 Person288~251 Greenley Rd~~~New Canaan CT  06840~03
+00000000~000289~Mr. Sample289 Person289~83 Gerrish Ln~~~New Canaan CT  06840~03
+00000000~000290~Mr & Mrs Sample290 Person290~29 Mountain Spring Rd~~~Farmington CT  06032~03
+00000000~000291~Miss Sample291 Person291~18 Ridgewood Rd~~~Norwalk CT  06853~04
+00000000~000292~Mr & Mrs Sample292 Person292~67 Westway Rd~~~Southport CT  06890~04
+00000000~000293~Ms. Sample293 Person293~277 Compo Rd S~~~Westport CT  06880~04
+00000000~000294~Mrs. Sample294 Person294~420 E 72nd St~~~New York NY 10021~04
+00000000~000295~Mrs. Sample295 Person295~580 Sasco Hill Rd~~~Fairfield CT  06824~04
+00000000~000296~Mr Sample296 Person296~3129 Burr St~~~Fairfield CT  06824~04
+00000000~000297~Mrs. Sample297 Person297~303 Hulls Farm Rd~~~Southport CT  06890~04
+00000000~000298~Mr & Mrs Sample298 Person298~2308 Fairfield Beach Rd~~~Fairfield CT  06824~04
+00000000~000299~Dr. Sample299 Person299~68 Dear Field Ln~~~Greenwich CT  06831~04
+00000000~000300~Mr & Mrs Sample300 Person300~450 Harbor Rd~~~Southport CT  06890~04
+00000000~000301~Mr. Sample301 Person301~386 Hillside Pl~~~South Orange NJ  07079~01
+00000000~000302~Mr. Sample302 Person302~50 Aiken St~~~Norwalk CT  06851~01
+00000000~000303~Mr & Mrs Sample303 Person303~265 Main St~~~Westport CT  06880~01
+00000000~000304~Mr & Mrs Sample304 Person304~715 Mill Hill Rd~~~Southport CT  06890~01
+00000000~000305~Mrs. Sample305 Person305~90 Webster St~~~Newport RI  02840~01
+00000000~000306~Mr & Mrs Sample306 Person306~270 Old Church Rd~~~Greenwich CT  06830~01
+00000000~000307~Ms. Sample307 Person307~6 Linwood Ave~~~Riverside CT  06878~01
+00000000~000308~Mr & Mrs Sample308 Person308~710 Verna Hill Rd~~~Fairfield CT  06824~01
+00000000~000309~Ms. Sample309 Person309~113 Newtown Tpke~~~Westport CT  06880~01
+00000000~000310~Mr & Mrs Sample310 Person310~43 Sachem Rd~~~Weston CT  06883~01
+00000000~000311~Mr & Mrs Sample311 Person311~278 Putnam Ave~~~Hamden CT  06517~01
+00000000~000312~Mr & Mrs Sample312 Person312~100 South St~~~Fairfield CT  06824~01
+00000000~000313~Mr & Mrs Sample313 Person313~76 Buckfield Ln~~~Greenwich CT  06831~01
+00000000~000314~Mrs. Sample314 Person314~1155 Sasco Hill Rd~~~Fairfield CT  06824~01
+00000000~000315~Ms. Sample315 Person315~4 Marvin Pl~~~Westport CT  06880~01
+00000000~000316~Mr. Sample316 Person316~36 Champion Ter~~~Stratford CT  06614~01
+00000000~000317~Ms. Sample317 Person317~128 Cranbury Dr~~~Trumbull CT  06611~01
+00000000~000318~Mr & Mrs Sample318 Person318~312 Taconic Rd~~~Greenwich CT  06831~01
+00000000~000319~Mr. Sample319 Person319~4 Marvin Pl~~~Westport CT  06880~01
+00000000~000320~Mr & Mrs Sample320 Person320~2477 Merwins Ln~~~Fairfield CT  06824~01
+00000000~000321~Mr & Mrs Sample321 Person321~10 Hekma Rd~~~Greenwich CT  06831~01
+00000000~000322~Ms. Sample322 Person322~36 Cavalry Rd~~~Westport CT  06880~01
+00000000~000323~Ms. Sample323 Person323~36 Cavalry Rd~~~Westport CT  06880~01
+00000000~000324~Ms. Sample324 Person324~461 Mill Hill Ter~~~Southport CT  06890~01
+00000000~000325~Mr & Mrs Sample325 Person325~789 Harbor Rd~~~Southport CT  06890~01
+00000000~000326~Mr & Mrs Sample326 Person326~83 Clinton Ave~~~Westport CT  06880~01
+00000000~000327~Mr & Mrs Sample327 Person327~PO Box 461~~~Wilton CT  06897~01
+00000000~000328~Mr. Sample328 Person328~PO Box 461~~~Wilton CT  06897~01
+00000000~000329~Dr. & Dr. Sample329 Person329~10 Dewart Rd~~~Greenwich CT  06830~01
+00000000~000330~Mr & Mrs Sample330 Person330~162 Park St~~~New Canaan CT  06840~01
+00000000~000331~Ms. Sample331 Person331~421 Penfield Rd~~~Fairfield CT  06824~01
+00000000~000332~Ms. Sample332 Person332~17 Morningside Dr N~~~Westport CT  06880~01
+00000000~000333~Mrs. Sample333 Person333~132 Beachside Ave~~~Westport CT  06880~01
+00000000~000334~Ms. Sample334 Person334~18 Riverside Ave~~~Westport CT  06880~01
+00000000~000335~Ms. Sample335 Person335~47 Shady Knoll Ln~~~New Canaan CT  06840~01
+00000000~000336~Mr & Mrs Sample336 Person336~277 Crestwood Rd~~~Fairfield CT  06824~01
+00000000~000337~Mr & Mrs Sample337 Person337~8 Boulder Brook Rd~~~Greenwich CT  06830~01
+00000000~000338~Mr & Mrs Sample338 Person338~26 Pequot Trl~~~Westport CT  06880~01
+00000000~000339~Mr. Sample339 Person339~294 Round Hill Rd~~~Greenwich CT  06831~01
+00000000~000340~Mr & Mrs Sample340 Person340~753 Sasco Hill Rd~~~Fairfield CT  06824~01
+00000000~000341~Rev. Sample341 Person341~65 Myrtle Ave~~~Westport CT  06880~01
+00000000~000342~Dr. Sample342 Person342~221 Fairview Ave~~~Fairfield CT  06824~01
+00000000~000343~Ms. Sample343 Person343~137 Huntville Rd~~~Katonah NY 10536~01
+00000000~000344~Ms. Sample344 Person344~33 Morningside Dr N~~~Westport CT  06880~01
+00000000~000345~Mrs. Sample345 Person345~343 Sailors Ln~~~Bridgeport CT  06605~01
+00000000~000346~Mr & Mrs Sample346 Person346~459 Hulls Hwy~~~Southport CT  06890~01
+00000000~000347~Mr & Mrs Sample347 Person347~14 Greenwood Ln~~~Westport CT  06880~01
+00000000~000348~Mrs. Sample348 Person348~28 Jennie Ln~~~Westport CT  06880~01
+00000000~000349~Mr. Sample349 Person349~1095 Pequot Ave~~~Southport CT  06890~01
+00000000~000350~Mr. Sample350 Person350~45 Turkey Hill Rd S~~~Westport CT  06880~01
+00000000~000351~Mr. Sample351 Person351~PO Box 704~~~Fairfield CT  06824~01
+00000000~000352~Mr & Mrs Sample352 Person352~22 Ettl Park~~~Greenwich CT  06831~01
+00000000~000353~Mr & Mrs Sample353 Person353~6 Sylvan Ln~~~Old Greenwich CT  06870~01
+00000000~000354~Mr & Mrs Sample354 Person354~23 Meadow Wood Dr~~~Greenwich CT  06830~01
+00000000~000355~Mr & Mrs Sample355 Person355~32 Marks Rd~~~Riverside CT  06878~01
+00000000~000356~Mr. Sample356 Person356~18 Overidge Ln~~~Wilton CT  06897~01
+00000000~000357~Ms. Sample357 Person357~150 Blackberry Dr~~~Stamford CT  06903~01
+00000000~000358~Ms. Sample358 Person358~80 Hulls Hwy~~~Southport CT  06890~01
+00000000~000359~Mrs. Sample359 Person359~PO Box 294~~~Southport CT  06890~01
+00000000~000360~Ms. Sample360 Person360~7 Heather Ln~~~Norwalk CT  06851~01
+00000000~000361~Mr & Mrs Sample361 Person361~3141 Congress St~~~Fairfield CT  06824~01
+00000000~000362~Mr & Mrs Sample362 Person362~16 Doverton Dr~~~Greenwich CT  06831~01
+00000000~000363~Dr. Sample363 Person363~118 Green Knolls Ln~~~Fairfield CT  06824~01
+00000000~000364~Mr & Mrs Sample364 Person364~1 Mansfield Pl~~~Westport CT  06880~01
+00000000~000365~Mr. Sample365 Person365~PO Box 166~~~Redding CT  06875~01
+00000000~000366~Mr & Mrs Sample366 Person366~16 Drummer Ln~~~Redding CT  06875~01
+00000000~000367~Ms. Sample367 Person367~952 Old Post Rd~~~Fairfield CT  06824~01
+00000000~000368~Ms. Sample368 Person368~78 Easton Rd~~~Westport CT  06880~01
+00000000~000369~Ms. Sample369 Person369~95 Valley Rd~~~Westport CT  06880~01
+00000000~000370~Mr & Mrs Sample370 Person370~11 Berkeley Rd~~~Westport CT  06880~01
+00000000~000371~Ms. Sample371 Person371~9 Sprucewood Ln~~~Westport CT  06880~01
+00000000~000372~Dr. & Mrs. Sample372 Person372~5 Maryanne Ln~~~Stamford CT  06905~01
+00000000~000373~Mr. Sample373 Person373~5 Mary Ln~~~Riverside CT  06878~01
+00000000~000374~Ms. Sample374 Person374~The Hills Of Monroe~214d Windgate Cir~~Monroe CT  06468~01
+00000000~000375~Mr & Mrs Sample375 Person375~89 Butternut Hollow Rd~~~Greenwich CT  06830~01
+00000000~000376~Ms. Sample376 Person376~18 W Norwalk Rd~~~Darien CT  06820~01
+00000000~000377~Mr & Mrs. Sample377 Person377~5 Greenfield Hill Rd~~~Fairfield CT  06824~01
+00000000~000378~Mr & Mrs Sample378 Person378~106 Hillspoint Rd~~~Westport CT  06880~01
+00000000~000379~Mr. Sample379 Person379~85 Riverside Ave~~~Stamford CT  06905~01
+00000000~000380~Mr & Mrs Sample380 Person380~PO Box 1151~~~Weston CT  06883~01
+00000000~000381~Mr. Sample381 Person381~411 Joan Dr~~~Fairfield CT  06824~01
+00000000~000382~Dr & Mrs Sample382 Person382~10 Turkey Hill Cir~~~Westport CT  06880~01
+00000000~000383~Mr & Mrs Sample383 Person383~975 Banks North Rd~~~Fairfield CT  06824~01
+00000000~000384~Mrs. Sample384 Person384~271 Wormwood Rd~~~Fairfield CT  06824~01
+00000000~000385~Mr & Mrs Sample385 Person385~130 Imperial Ave~~~Westport CT  06880~01
+00000000~000386~Mr & Mrs Sample386 Person386~350 Harbor Rd~~~Southport CT  06890~01
+00000000~000387~Mr & Mrs Sample387 Person387~220 Hill Farm Rd~~~Fairfield CT  06824~01
+00000000~000388~Mr & Mrs Sample388 Person388~87 Birch Hill Rd~~~Weston CT  06883~01
+00000000~000389~Mr. Sample389 Person389~195 Greens Farms Rd~~~Westport CT  06880~01
+00000000~000390~Mr & Mrs Sample390 Person390~688 Hulls Farm Rd~~~Southport CT  06890~01
+00000000~000391~Mr & Mrs Sample391 Person391~19 Apple Tree Trl~~~Westport CT  06880~01
+00000000~000392~Mrs. Sample392 Person392~912 Hulls Farm Rd~~~Southport CT  06890~01
+00000000~000393~Ms. Sample393 Person393~192 Farmington Ave~~~Fairfield CT  06825~01
+00000000~000394~Mrs. Sample394 Person394~18 Nelson Ave~~~Norwalk CT  06851~01
+00000000~000395~Mr & Mrs Sample395 Person395~221 Greens Farms Rd~~~Westport CT  06880~01
+00000000~000396~Ms. Sample396 Person396~PO Box 145~~~Greens Farms CT  06838~01
+00000000~000397~Mr & Mrs Sample397 Person397~715 Pequot Ave~~~Southport CT  06890~01
+00000000~000398~Mrs. Sample398 Person398~7 Lalley Blvd~~~Fairfield CT  06824~01
+00000000~000399~Mrs. Sample399 Person399~46 Coach House Ln~~~Stratford CT  06614~01
+00000000~000400~Ms. Sample400 Person400~Wbry Symphony Orchestra~PO Box 762~~Waterbury CT  06720~01
+00000000~000401~Mr & Mrs Sample401 Person401~111 Aran Hill Rd~~~Fairfield CT  06824~01
+00000000~000402~Ms. Sample402 Person402~895 E Broadway~~~Stratford CT  06615~01
+00000000~000403~Mr & Mrs Sample403 Person403~8 White Birch Ct~~~Norwalk CT  06851~01
+00000000~000404~Mr & Mrs Sample404 Person404~1 Binney Ln~~~Old Greenwich CT  06870~01
+00000000~000405~Mr. Sample405 Person405~2502 Bronson Rd~~~Fairfield CT  06824~01
+00000000~000406~Mr & Mrs Sample406 Person406~35 Powder Horn Hill Rd~~~Wilton CT  06897~01
+00000000~000407~Mr. Sample407 Person407~253 Sunwood Dr~~~Shelton CT  06484~01
+00000000~000408~Mr. Sample408 Person408~701 Laurel Rd~~~New Canaan CT  06840~01
+00000000~000409~Ms. Sample409 Person409~33 Naromake Ave~~~Norwalk CT  06854~01
+00000000~000410~Ms. Sample410 Person410~2821 Congress St~~~Fairfield CT  06824~01
+00000000~000411~Mr. Sample411 Person411~161 Sturges Hwy~~~Westport CT  06880~01
+00000000~000412~Mr & Mrs Sample412 Person412~Westport Road~PO Box 84~~Easton CT  06612~01
+00000000~000413~Ms. Sample413 Person413~3 Betts Pl~~~Norwalk CT  06855~01
+00000000~000414~Dr. Sample414 Person414~33 Cross Hwy~~~Westport CT  06880~01
+00000000~000415~Mr & Mrs Sample415 Person415~21 Deer Park Dr~~~Greenwich CT  06830~01
+00000000~000416~Mr & Mrs Sample416 Person416~7 Devon Rd~~~Westport CT  06880~01
+00000000~000417~Ms. Sample417 Person417~10 Wilson Ave~~~Norwalk CT  06853~01
+00000000~000418~Ms. Sample418 Person418~10 Waldon Rd~~~Darien CT  06820~01
+00000000~000419~Ms. Sample419 Person419~69 Post Rd W~~~Westport CT  06880~01
+00000000~000420~Ms. Sample420 Person420~69 Post Rd W~~~Westport CT  06880~01
+00000000~000421~Mr & Mrs Sample421 Person421~34 Glen Rd~~~Greenwich CT  06830~01
+00000000~000422~Dr & Mrs Sample422 Person422~124 Cross Hwy~~~Westport CT  06880~01
+00000000~000423~Mrs. Sample423 Person423~9 Quintard Pl~~~Westport CT  06880~01
+00000000~000424~Mr. Sample424 Person424~267 S Gate Ln~~~Southport CT  06890~01
+00000000~000425~Mr & Mrs Sample425 Person425~6 Sasco River Ln~PO Box 463~~Southport CT  06890~01
+00000000~000426~Mr & Mrs Sample426 Person426~10 Berkeley Rd~~~Westport CT  06880~01
+00000000~000427~Mr & Mrs Sample427 Person427~349 Lake Ave~~~Greenwich CT  06830~01
+00000000~000428~Mr & Mrs Sample428 Person428~3 Fieldcrest Rd~~~Westport CT  06880~01
+00000000~000429~Mr & Mrs Sample429 Person429~94 Pecksland Rd~~~Greenwich CT  06831~01
+00000000~000430~Mr. Sample430 Person430~Albert B. Ashforth, Inc.~3001 Summer St~~Stamford CT  06905~01
+00000000~000431~Mr & Mrs Sample431 Person431~4 Clapboard Hill Rd~PO Box 662~~Westport CT  06881~01
+00000000~000432~Ms. Sample432 Person432~Box 147~RR 4~~Pound Ridge NY 10576~01
+00000000~000433~Ms. Sample433 Person433~Box 147~RR 4~~Pound Ridge NY 10576~01
+00000000~000434~Ms. Sample434 Person434~17 Division St W~~~Greenwich CT  06830~01
+00000000~000435~Ms. Sample435 Person435~20 Hill Rd~~~Greenwich CT  06830~01
+00000000~000436~Ms. Sample436 Person436~170 Fox St~~~Bridgeport CT  06605~01
+00000000~000437~Mr. & Mrs. Sample437 Person437~128 Dingletown Rd~~~Greenwich CT  06830~01
+00000000~000438~Mr & Mrs Sample438 Person438~16 Allen Dr~~~Trumbull CT  06611~01
+00000000~000439~Dr & Mrs Sample439 Person439~174 Hubbell Ln~~~Fairfield CT  06824~01
+00000000~000440~Ms. Sample440 Person440~51 High Point Rd~~~Westport CT  06880~01
+00000000~000441~Mr. & Mrs. Sample441 Person441~4 Tar Rock Rd~~~Westport CT  06880~01
+00000000~000442~Mr. & Mrs. Sample442 Person442~4 Tar Rock Rd~~~Westport CT  06880~01
+00000000~000443~Ms. Sample443 Person443~4 Tar Rock Rd~~~Westport CT  06880~01
+00000000~000444~Mr & Mrs Sample444 Person444~768 Sasco Hill Rd~~~Fairfield CT  06824~01
+00000000~000445~Ms. Sample445 Person445~50 High Pastures Ct~~~Ridgefield CT  06877~01
+00000000~000446~Ms. Sample446 Person446~5 Le Grande Ave~~~Greenwich CT  06830~01
+00000000~000447~Ms. Sample447 Person447~5 Le Grande Ave~~~Greenwich CT  06830~01
+00000000~000448~Mr. Sample448 Person448~449 Grasmere Ave~~~Fairfield CT  06824~01
+00000000~000449~Ms. Sample449 Person449~4 Turtleback Ln~~~Westport CT  06880~01
+00000000~000450~Mr. Sample450 Person450~66 Adams Rd~~~Fairfield CT  06824~01
+00000000~000451~Dr & Mrs Sample451 Person451~66 Adams Rd~~~Fairfield CT  06824~01
+00000000~000452~Mr. Sample452 Person452~Hapworth Center~250 W 57th St~~New York NY 10107~01
+00000000~000453~Mrs. Sample453 Person453~462 Old Long Ridge Rd~~~Stamford CT  06903~01
+00000000~000454~Mr & Mrs Sample454 Person454~2 Woods Grove Rd~~~Westport CT  06880~01
+00000000~000455~Mr & Mrs Sample455 Person455~45 Lockwood Ave~~~Old Greenwich CT  06870~01
+00000000~000456~Mrs. Sample456 Person456~710 Mill Hill Rd~~~Southport CT  06890~01
+00000000~000457~Mr & Mrs Sample457 Person457~80 Governors Ln~~~Fairfield CT  06824~01
+00000000~000458~Dr & Mrs Sample458 Person458~83 Mill Hill Rd~~~Southport CT  06890~01
+00000000~000459~Ms. Sample459 Person459~19 Loren Ln~~~Westport CT  06880~01
+00000000~000460~Mr. Sample460 Person460~19 Loren Ln~~~Westport CT  06880~01
+00000000~000461~Ms. Sample461 Person461~18 Franklin St~~~Westport CT  06880~01
+00000000~000462~Mrs. Sample462 Person462~431 Pequot Ct~~~Southport CT  06890~01
+00000000~000463~Mr & Mrs Sample463 Person463~62 Sherman Ave~~~Trumbull CT  06611~01
+00000000~000464~Mr & Mrs Sample464 Person464~210 Red Fox Rd~~~Stamford CT  06903~01
+00000000~000465~Mr. Sample465 Person465~168 Marne Ave~~~Fairfield CT  06825~01
+00000000~000466~Mr & Mrs Sample466 Person466~18 Laurel Ledge Ct~~~Stamford CT  06903~01
+00000000~000467~Ms. Sample467 Person467~31 Ostend Ave~~~Westport CT  06880~01
+00000000~000468~Mr & Mrs Sample468 Person468~241 Harbor Rd~~~Southport CT  06890~01
+00000000~000469~Mr & Mrs Sample469 Person469~10 Overlook Dr~~~Chappaqua NY 10514~01
+00000000~000470~Mr. Sample470 Person470~432 Madison Ave~~~New York NY 10022~01
+00000000~000471~Mr & Mrs Sample471 Person471~PO Box 491~~~Greenwich CT  06836~01
+00000000~000472~Mrs. Sample472 Person472~Taylor Rd~RR 3~~Mount Kisco NY 10549~01
+00000000~000473~Mrs. Sample473 Person473~14 Emery St~~~Mount Kisco NY 10549~01
+00000000~000474~Mr & Mrs Sample474 Person474~795 Hulls Farm Rd~~~Southport CT  06890~01
+00000000~000475~Mr & Mrs Sample475 Person475~10 Pheasant Ln~~~Greenwich CT  06830~01
+00000000~000476~Mr & Mrs Sample476 Person476~194 Shore Rd~~~Old Greenwich CT  06870~01
+00000000~000477~Mr & Mrs Sample477 Person477~174 E Hunting Ridge Rd~~~Stamford CT  06903~01
+00000000~000478~Mrs. Sample478 Person478~81 Compo Rd S~~~Westport CT  06880~01
+00000000~000479~Ms. Sample479 Person479~52 Maple Ave S~~~Westport CT  06880~01
+00000000~000480~Mr. Sample480 Person480~PO Box 678~~~Greenwich CT  06836~01
+00000000~000481~Ms. Sample481 Person481~2 Cross Hwy~~~Westport CT    06880~01
+00000000~000482~Mr. Sample482 Person482~325 Redding Rd~~~Redding CT  06875~01
+00000000~000483~Mr & Mrs Sample483 Person483~271 Center Rd~~~Easton CT  06612~01
+00000000~000484~Mr. Sample484 Person484~50 Stones Throw Rd~~~Easton CT  06612~01
+00000000~000485~Mrs. Sample485 Person485~295 Greens Farms Rd~~~Westport CT  06880~01
+00000000~000486~Ms. Sample486 Person486~71 Saint Nicholas Rd~~~Darien CT  06820~01
+00000000~000487~Ms. Sample487 Person487~2 Owenoke Park~~~Westport CT  06880~01
+00000000~000488~Dr & Mrs Sample488 Person488~1074 Harbor Rd~PO Box L~~Southport CT  06890~01
+00000000~000489~Mr & Mrs Sample489 Person489~25 Ostend Ave~~~Westport CT  06880~01
+00000000~000490~Mr & Mrs Sample490 Person490~1214 Mine Hill Rd~~~Fairfield CT  06824~01
+00000000~000491~Mr. Sample491 Person491~3236 Congress St~~~Fairfield CT  06824~01
+00000000~000492~Mr & Mrs Sample492 Person492~731 Sasco Hill Rd~~~Fairfield CT  06824~01
+00000000~000493~Ms. Sample493 Person493~1373 Mill Plain Rd~~~Fairfield CT  06824~01
+00000000~000494~Mrs. Sample494 Person494~3590 Congress St~~~Fairfield CT  06824~01
+00000000~000495~Mr & Mrs Sample495~Person495 1158 5th Ave~~~New York NY 10029~01
+00000000~000496~Mr & Mrs Sample496 Person496~519 Stanwich Rd~~~Greenwich CT  06831~01
+00000000~000497~Ms. Sample497 Person497~81 Norfield Rd~~~Weston CT  06883~01
+00000000~000498~Mr & Mrs Sample498 Person498~51 Beachside Av~PO Box 208~~Greens Farms CT  06838~01
+00000000~000499~Mr & Mrs Sample499 Person499~3 Clapboard Hill Rd~~~Westport CT  06880~01
+00000000~000500~Ms. Sample500 Person500~10 Old Hill Rd~~~Westport CT  06880~01
+00000000~000501~Mr. Sample501 Person501~68 Palmer St~~~Stamford CT  06907~01
+00000000~000502~Mr & Mrs Sample502 Person502~419 Beach Rd~~~Fairfield CT  06824~01
+00000000~000503~Mr & Mrs Sample503 Person503~11 Little Fox Ln~~~Westport CT  06880~01
+00000000~000504~Mr & Mrs Sample504 Person504~80 Field Point Cir~~~Greenwich CT  06830~01
+00000000~000505~Ms. Sample505 Person505~Frnt~100 Shorefront Park~~Norwalk CT  06854~01
+00000000~000506~Ms. Sample506 Person506~27 Van Buren Ave~~~Norwalk CT  06850~01
+00000000~000507~Mr & Mrs Sample507 Person507~1 Mountain Wood Dr~~~Greenwich CT  06830~01
+00000000~000508~Mr. Sample508 Person508~114 Washington St~~~Norwalk CT  06854~01
+00000000~000509~Mr & Mrs Sample509 Person509~5 Westview Trl~~~New Fairfield CT  06812~01
+00000000~000510~Mr & Mrs Sample510 Person510~12 Rices Ln~~~Westport CT  06880~01
+00000000~000511~Mr & Mrs Sample511 Person511~39 Patterson Ave~~~Greenwich CT  06830~01
+00000000~000512~Mr & Mrs Sample512 Person512~1 Church St~~~Southport CT  06890~01
+00000000~000513~M. & Mrs Sample513 Person513~40 Signal Hill Rd~~~Wilton CT  06897~01
+00000000~000514~Mr & Mrs Sample514 Person514~65 Sunset Hill Rd~~~New Canaan CT  06840~01
+00000000~000515~Mr & Mrs Sample515 Person515~281 Bayberry Ln~~~Westport CT  06880~01
+00000000~000516~Mr & Mrs Sample516 Person516~70 Otter Rock Dr~~~Greenwich CT  06830~01
+00000000~000517~Ms. Sample517 Person517~120 Wolfpit Ave~~~Norwalk CT  06851~01
+00000000~000518~Ms. Sample518 Person518~72 Valley Rd~~~Westport CT  06880~01
+00000000~000519~Mr & Mrs Sample519 Person519~712 Harbor Rd~~~Southport CT  06890~01
+00000000~000520~Mr & Mrs Sample520 Person520~24 Sunset Dr~~~Weston CT  06883~01
+00000000~000521~Dr & Mrs Sample521 Person521~457 Harbor Rd~~~Southport CT  06890~01
+00000000~000522~Mr & Mrs Sample522 Person522~95 Grumman Hill Rd~~~Wilton CT  06897~01
+00000000~000523~Mr. Sample523 Person523~Apt 15~19 Le Grande Ave~~Greenwich CT  06830~01
+00000000~000524~Mrs Sample524 Person524~650 Banks North Rd~~~Fairfield CT  06824~01
+00000000~000525~Mr. Sample525 Person525~PO Box 504~~~Southport CT  06890~01
+00000000~000526~Mr & Mrs Sample526 Person526~35 Ostend Ave~~~Westport CT  06880~01
+00000000~000527~Mr & Mrs Sample527 Person527~167 E Rocks Rd~~~Norwalk CT  06851~01
+00000000~000528~Mr & Mrs Sample528 Person528~134 Douglas Rd~~~Chappaqua NY 10514~01
+00000000~000529~Mr & Mrs Sample529 Person529~36 Lismore Ln~~~Greenwich CT  06831~01
+00000000~000530~Mr & Mrs Sample530 Person530~200 Riverside Dr~~~New York NY 10025~01
+00000000~000531~Mr & Mrs Sample531 Person531~50 Clinton Ave~~~Westport CT  06880~01
+00000000~000532~Mr & Mrs Sample532 Person532~287 Westway Rd~~~Southport CT  06890~01
+00000000~000533~Mr & Mrs Sample533 Person533~176 Main St~~~Southport CT  06890~01
+00000000~000534~Mr & Mrs Sample534 Person534~20 Blueberry Ln~~~Fairfield CT  06825~01
+00000000~000535~Mr & Mrs Sample535 Person535~28 Colony Rd~~~Westport CT  06880~01
+00000000~000536~Mrs. Sample536 Person536~725 Weed St~~~New Canaan CT  06840~01
+00000000~000537~Mr. Sample537 Person537~7 Overlook Rd~~~Westport CT  06880~01
+00000000~000538~Mr & Mrs Sample538 Person538~794 Sasco Hill Rd~~~Fairfield CT  06824~01
+00000000~000539~Mrs. Sample539 Person539~9 Janson Dr~~~Westport CT  06880~01
+00000000~000540~Mr. Sample540 Person540~31 Red Coat Rd~~~Westport CT  06880~01
+00000000~000541~Mr. Sample541 Person541~19 Twin Circle Dr~~~Westport CT  06880~01
+00000000~000542~Mr & Mrs Sample542 Person542~1078 Sasco Hill Rd~~~Fairfield CT  06824~01
+00000000~000543~Ms. Sample543 Person543~115 Gerrish Ln~~~New Canaan CT  06840~01
+00000000~000544~Ms. Sample544 Person544~115 Asmara Way~~~Easton CT  06612~01
+00000000~000545~Ms. Sample545 Person545~15 Quentin Rd~~~Westport CT  06880~01
+00000000~000546~Mr. Sample546 Person546~112 Lalley Blvd~~~Fairfield CT  06824~01
+00000000~000547~Mrs. Sample547 Person547~190 Green Acres Ln~~~Fairfield CT  06824~01
+00000000~000548~Mr & Mrs Sample548 Person548~57 Clapboard Ridge Rd~~~Greenwich CT  06830~01
+00000000~000549~Ms. Sample549 Person549~63 Sturges Hwy~~~Westport CT  06880~01
+00000000~000550~Ms. Sample550 Person550~Apt 18~33 Talbot Ln~~Greenwich CT  06830~01
+00000000~000551~Ms. Sample551 Person551~140 Southport Woods Dr~~~Southport CT  06890~01
+00000000~000552~Ms. Sample552 Person552~15 Bauer Pl~~~Westport CT  06880~01
+00000000~000553~Mr & Mrs Sample553 Person553~742 Burr St~~~Fairfield CT  06824~01
+00000000~000554~Ms. Sample554 Person554~1185 Stratfield Rd~~~Fairfield CT  06825~01
+00000000~000555~Mr & Mrs Sample555 Person555~28 Lindencrest Dr~~~Danbury CT  06811~01
+00000000~000556~Mr & Mrs Sample556 Person556~3 Wisteria Ln~~~Westport CT  06880~01
+00000000~000557~Mr. Sample557 Person557~5 Westfair Dr~~~Westport CT  06880~01
+00000000~000558~Mr. Sample558 Person558~Apt 11B-1~3200 Park Ave~~Bridgeport CT  06604~01
+00000000~000559~Mr. & Mrs. Sample559 Person559~4 Birchwood Ln~~~Westport CT  06880~01
+00000000~000560~Dr. Sample560 Person560~145 Old Mill Rd~~~Greenwich CT  06831~01
+00000000~000561~Mr. Sample561 Person561~2 Dogwood Dr~~~Ridgefield CT  06877~01
+00000000~000562~Mr & Mrs Sample562 Person562~Apt 4-C~10 Weaver St~~Greenwich CT  06831~01
+00000000~000563~Mrs. Sample563 Person563~55 Evergreen Ave~~~Westport CT  06880~01
+00000000~000564~Ms. Sample564 Person564~12 Dover Rd~~~Westport CT  06880~01
+00000000~000565~Ms. Sample565 Person565~5 Lilac Ln~~~Westport CT  06880~01
+00000000~000566~Mr & Mrs Sample566 Person566~156 Compo Rd S~~~Westport CT  06880~01
+00000000~000567~Mr. Sample567 Person567~165 Grovers Ave~~~Bridgeport CT  06605~01
+00000000~000568~Mr. Sample568 Person568~81 Sturges Rd~~~Fairfield CT  06824~01
+00000000~000569~Mr & Mrs Sample569 Person569~16 Highgate Rd~~~Riverside CT  06878~01
+00000000~000570~Mr & Mrs Sample570 Person570~23 Splitrock Rd~~~Norwalk CT  06854~01
+00000000~000571~Ms. Sample571 Person571~213 Hollydale Rd~~~Fairfield CT  06824~01
+00000000~000572~Ms. Sample572 Person572~2 Lookout Ln~~~Westport CT  06880~01
+00000000~000573~Ms. Sample573 Person573~9 River View Rd~~~Westport CT  06880~01
+00000000~000574~Dr & Mrs Sample574 Person574~143 Compo Rd S~~~Westport CT  06880~01
+00000000~000575~Ms. Sample575 Person575~43 Zaccheus Mead Ln~~~Greenwich CT  06831~01
+00000000~000576~Ms. Sample576 Person576~Oddfellows Playhouse~PO Box 23~~Middletown CT  06457~01
+00000000~000577~Mr. Sample577 Person577~35 Charles St~~~Fairfield CT  06824~01
+00000000~000578~Mr & Mrs Sample578 Person578~30 Sleepy Hollow Rd~~~Fairfield CT  06824~01
+00000000~000579~Mr & Mrs Sample579 Person579~PO Box 1620~~~New Canaan CT  06840~01
+00000000~000580~Ms. Sample580 Person580~13 Sammis St~~~Norwalk CT  06853~01
+00000000~000581~Mr & Mrs Sample581 Person581~29 Old Stage Coach Rd~~~Weston CT  06883~01
+00000000~000582~Mr & Mrs Sample582 Person582~7 Bayberry Rdg~~~Westport CT  06880~01
+00000000~000583~Ms. Sample583 Person583~3015 High Ridge Rd~~~Stamford CT  06903~01
+00000000~000584~Mrs. Sample584 Person584~60 William St~~~Norwalk CT  06851~01
+00000000~000585~Mr. Sample585 Person585~Krauss & Co.~1 Landmark Sq~~Stamford CT  06901~01
+00000000~000586~Mr & Mrs Sample586 Person586~792 Hulls Farm Rd~~~Southport CT  06890~01
+00000000~000587~Mr & Mrs Sample587 Person587~24 Edgerton St~~~Darien CT  06820~01
+00000000~000588~Dr & Mrs Sample588 Person588~97 Harbor Rd~~~Southport CT  06890~01
+00000000~000589~Mr. Sample589 Person589~761 Merwins Ln~~~Fairfield CT  06824~01
+00000000~000590~Mrs. Sample590 Person590~16 Spring Valley Rd~~~Woodbridge CT  06525~01
+00000000~000591~Mr. Sample591 Person591~133 Roseville Rd~~~Westport CT  06880~01
+00000000~000592~Mr. Sample592 Person592~Second Congregational Ch~139 E Putnam Ave~~Greenwich CT  06830~01
+00000000~000593~Mr & Mrs Sample593 Person593~564 Harbor Rd~~~Southport CT  06890~01
+00000000~000594~Mr & Mrs Sample594 Person594~200 Bayberry Ln~~~Westport CT  06880~01
+00000000~000595~Ms. Sample595 Person595~3 Liberty St~~~Wilton CT  06897~01
+00000000~000596~Mr & Mrs Sample596 Person596~29 Berndale Dr~~~Westport CT  06880~01
+00000000~000597~Ms. Sample597 Person597~76 Bush Ave~~~Greenwich CT  06830~01
+00000000~000598~Dr. & Mrs. Sample598 Person598~297 Shore Rd~~~Greenwich CT  06830~01
+00000000~000599~Mrs. Sample599 Person599~42 Owenoke Park~~~Westport CT  06880~01
+00000000~000600~Mr & Mrs Sample600 Person600~393 Toilsome Hill Rd~~~Fairfield CT  06825~01
+00000000~000601~Mr & Mrs Sample601 Person601~504 Sasco Hill Rd~~~Fairfield CT  06824~01
+00000000~000602~Ms. Sample602 Person602~Pro Arte Chamber Singers~PO Box 3635~~Stamford CT  06905~01
+00000000~000603~Mrs. Sample603 Person603~73 Webb Ave~~~Stamford CT  06902~01
+00000000~000604~Mr & Mrs Sample604 Person604~26 Juniper Pl~~~Wilton CT  06897~01
+00000000~000605~Mrs. Sample605 Person605~2660 North St~~~Fairfield CT  06824~01
+00000000~000606~Sample606 Person606~379 Belden Hill Rd~~~Wilton CT  06897~01
+00000000~000607~Mr & Mrs Sample607 Person607~290 Carroll Rd~~~Fairfield CT  06824~01
+00000000~000608~Mr. Sample608 Person608~PO Box 648~~~Southport CT  06890~01
+00000000~000609~Mr. Sample609 Person609~58 Lawrence Rd~~~Fairfield CT  06824~01
+00000000~000610~Mrs. Sample610 Person610~26 Gaybowers Ln~~~Fairfield CT  06824~01
+00000000~000611~Mr & Mrs Sample611 Person611~57 Ludlow Rd~~~Westport CT  06880~01
+00000000~000612~Mr. Sample612 Person612~Aviation Leasing, Inc.~34 E Putnam Ave~~Greenwich CT  06830~01
+00000000~000613~Dr & Mrs Sample613 Person613~13 Elmwood Rd~~~Westport CT  06880~01
+00000000~000614~Mr & Mrs Sample614 Person614~49 Skyview Ln~~~New Canaan CT  06840~01
+00000000~000615~Ms. Sample615 Person615~20 The Circle~~~Easton CT  06612~01
+00000000~000616~Ms. Sample616 Person616~40 Mckinley St~~~Norwalk CT  06853~01
+00000000~000617~Mr & Mrs Sample617 Person617~6 Judy Point Ln~~~Westport CT  06880~01
+00000000~000618~Mr & Mrs Sample618 Person618~132 Sturges Rd~~~Fairfield CT  06824~01
+00000000~000619~Mrs. Sample619 Person619~42 Danbury Ave~~~Westport CT  06880~01
+00000000~000620~Mr & Mrs Sample620 Person620~470 Mine Hill Rd~~~Fairfield CT  06824~01
+00000000~000621~Mr. Sample621 Person621~269 High Ridge Dr~~~Bridgeport CT  06606~01
+00000000~000622~Mr & Mrs Sample622 Person622~1488 Brookside Dr~~~Fairfield CT  06824~01
+00000000~000623~Ms. Sample623 Person623~33 Wilton Ave~~~Norwalk CT  06851~01
+00000000~000624~Mr & Mrs Sample624 Person624~178 Jackman Ave~~~Fairfield CT  06825~01
+00000000~000625~Mr & Mrs Sample625 Person625~139 Beachside Avenue~~~Greens Farms CT  06838~01
+00000000~000626~Mr & Mrs Sample626 Person626~167 Zaccheus Mead Ln~~~Greenwich CT  06831~01
+00000000~000627~Dr & Mrs Sample627 Person627~4 Elwil Dr~~~Westport CT  06880~01
+00000000~000628~Mr. Sample628 Person628~147 Round Hill Rd~~~Greenwich CT  06831~01
+00000000~000629~Mr. Sample629 Person629~47 Sturges Ridge Rd~~~Wilton CT  06897~01
+00000000~000630~Mr & Mrs Sample630 Person630~1252 Pequot Ave~~~Southport CT  06890~01
+00000000~000631~Ms. Sample631 Person631~1 Rocky Ridge Rd~~~Westport CT  06880~01
+00000000~000632~Mrs. Sample632 Person632~27 Brooks Rd~~~New Canaan CT  06840~01
+00000000~000633~Mr & Mrs Sample633 Person633~1 Riverfield Dr~~~Westport CT  06880~01
+00000000~000634~Mr & Mrs Sample634 Person634~2221 Cross Hwy~~~Fairfield CT  06824~01
+00000000~000635~Mr & Mrs Sample635 Person635~93 Angus Rd N~~~Greenwich CT  06831~01
+00000000~000636~Mrs. Sample636 Person636~64 Foxwood Rd~~~Stamford CT  06903~01
+00000000~000637~Mr & Mrs Sample637 Person637~5 Woodland Dr~~~Westport CT  06880~01
+00000000~000638~Dr. Sample638 Person638~61 Signal Hill Rd~~~Wilton CT  06897~01
+00000000~000639~Mrs. Sample639 Person639~122 Rocky Brook Rd~~~New Canaan CT  06840~01
+00000000~000640~Mr & Mrs Sample640 Person640~14 Todds Rd~~~Ridgefield CT  06877~01
+00000000~000641~Miss Sample641 Person641~Pequot Mews~~~Southport CT  06890~01
+00000000~000642~Ms. Sample642 Person642~54 Canterbury Ln~~~Wilton CT  06897~01
+00000000~000643~Ms. Sample643 Person643~33 Hill Farm Rd~~~Fairfield CT  06824~01
+00000000~000644~Ms. Sample644 Person644~151 Wareham St~~~Fairfield CT  06824~01
+00000000~000645~Mr & Mrs Sample645 Person645~43 Jennifer Ln~~~New Canaan CT  06840~01
+00000000~000646~Mr & Mrs Sample646 Person646~22 Laurel Ln~~~Wilton CT  06897~01
+00000000~000647~Mr & Mrs Sample647 Person647~3051 Bronson Rd~~~Fairfield CT  06824~01
+00000000~000648~Ms. Sample648 Person648~20 10 Oclock Ln~~~Weston CT  06883~01
+00000000~000649~Mr & Mrs Sample649 Person649~93 Old Church Rd~~~Greenwich CT  06830~01
+00000000~000650~Dr. Sample650 Person650~Silver Hill Foundation~0 Valley Ln~~New Canaan CT  06840~01
+00000000~000651~Mr. Sample651 Person651~8 Norwalk Ave~~~Westport CT  06880~01
+00000000~000652~Mr. Sample652 Person652~22 Wedgewood Rd~~~Westport CT  06880~01
+00000000~000653~Mr & Mrs Sample653 Person653~5 Marc Ln~~~Westport CT  06880~01
+00000000~000654~Mr. Sample654 Person654~88 Main St~~~New Canaan CT  06840~01
+00000000~000655~Ms. Sample655 Person655~105 Old Rd~~~Westport CT  06880~01
+00000000~000656~Dr & Mrs Sample656 Person656~2 Indian Point Ln~~~Westport CT  06880~01
+00000000~000657~Mrs. Sample657 Person657~115 E 67th St~~~New York NY 10021~01
+00000000~000658~Ms. Sample658 Person658~4710 118th Ave SE~~~Bellevue WA 98006~01
+00000000~000659~Ms. Sample659 Person659~658 Pequot Ave~PO Box 1177~~Southport CT  06890~01
+00000000~000660~Mr & Mrs Sample660 Person660~Contentment Island~Shennamere Rd~~Darien CT  06820~01
+00000000~000661~Mr & Mrs Sample661 Person661~505 Merwins Ln~~~Fairfield CT  06824~01
+00000000~000662~Mr. Sample662 Person662~285 Westover Rd~~~Stamford CT  06902~01
+00000000~000663~Mr & Mrs Sample663 Person663~33 Butternut Hollow Rd~~~Greenwich CT  06830~01
+00000000~000664~Mr & Mrs Sample664 Person664~14 Richmond Hls~~~Irvington NY 10533~01
+00000000~000665~Mr & Mrs Sample665 Person665~45 Binney Ln~~~Old Greenwich CT  06870~01
+00000000~000666~Mr. Sample666 Person666~Four Seasons Raquet Club~RR 7~~Wilton CT  06897~01
+00000000~000667~Ms. Sample667 Person667~46 Monroe St~~~Milford CT  06460~01
+00000000~000668~Mr & Mrs Sample668 Person668~185 Round Hill Rd~~~Greenwich CT  06831~01
+00000000~000669~Mrs. Sample669 Person669~Hoyt Rd.~~~Pound Ridge NY 10576~01
+00000000~000670~Mr & Mrs Sample670 Person670~1073 Fairfield Beach Rd~~~Fairfield CT  06824~01
+00000000~000671~Mrs. Sample671 Person671~235 Mine Hill Rd~~~Fairfield CT  06824~01
+00000000~000672~Mrs. Sample672 Person672~105 Meeting House Ln~~~Fairfield CT  06824~01
+00000000~000673~Mr. Sample673 Person673~105 Meeting House Ln~~~Fairfield CT  06824~01
+00000000~000674~Mr & Mrs Sample674 Person674~4 Carolyn Pl~~~Westport CT  06880~01
+00000000~000675~Ms. Sample675 Person675~94 Edward St~~~Fairfield CT  06824~01
+00000000~000676~Mr & Mrs Sample676 Person676~111 Oyster Rd~~~Fairfield CT  06824~01
+00000000~000677~Mr & Mrs Sample677 Person677~72 Myrtle Ave~~~Westport CT  06880~01
+00000000~000678~Mr & Mrs Sample678 Person678~15 Orchard Hill Ln~~~Greenwich CT  06831~01
+00000000~000679~Mr. Sample679 Person679~39 Rowayton Woods Dr~~~Norwalk CT  06854~01
+00000000~000680~Mr & Mrs Sample680 Person680~9 Kona Rd~~~Darien CT  06820~01
+00000000~000681~Mr & Mrs Sample681 Person681~9 Kona Rd~~~Darien CT  06820~01
+00000000~000682~Mrs. Sample682 Person682~230 Signal Hill Rd~~~Wilton CT  06897~01
+00000000~000683~Mr & Mrs Sample683 Person683~94 Lyons Plains Rd~~~Westport CT  06880~01
+00000000~000684~Ms. Sample684 Person684~760 Ponus Rdg~~~New Canaan CT  06840~01
+00000000~000685~Ms. Sample685 Person685~75 Birch Ln~~~Greenwich CT  06830~01
+00000000~000686~Mr & Mrs Sample686 Person686~99 Round Hill Rd~~~Greenwich CT  06831~01
+00000000~000687~Mr. Sample687 Person687~40 River Wind Rd~~~New Canaan CT  06840~01
+00000000~000688~Ms. Sample688 Person688~473 Church Hill Rd~~~Fairfield CT  06825~01
+00000000~000689~Mr & Mrs Sample689 Person689~4 Brightfield Ln~~~Westport CT  06880~01
+00000000~000690~Mr & Mrs Sample690 Person690~14 Charcoal Hill Rd~~~Westport CT  06880~01
+00000000~000691~Ms. Sample691 Person691~258 Hillspoint Rd~~~Westport CT  06880~01
+00000000~000692~Mrs. Sample692 Person692~28 Morningside Dr.~~~Greens Farms CT  06838~01
+00000000~000693~Mr & Mrs Sample693 Person693~2 Fence Row Dr~~~Fairfield CT  06824~01
+00000000~000694~Mr. Sample694 Person694~100 Lewis St~~~Greenwich CT  06830~01
+00000000~000695~Mr. Sample695 Person695~60 Christmas Tree Ln~~~Southport CT  06890~01
+00000000~000696~Dr & Mrs Sample696 Person696~55 North St~~~Greenwich CT  06830~01
+00000000~000697~Ms. Sample697 Person697~5 Putnam Hl~~~Greenwich CT  06830~01
+00000000~000698~Ms. Sample698 Person698~Apt 3B~138 Woodside Grn~~Stamford CT  06905~01
+00000000~000699~Mr. Sample699 Person699~PO Box 92~~~Katonah NY 10536~01
+00000000~000700~Mr. Sample700 Person700~397 Lakeside Dr~~~Stamford CT  06903~01
+00000000~000701~ADDOLORATA TIERSTEN~PO Box 945~~~East Freetown MA 02717~01
+00000000~000702~ADRIANTO TANTICO~PO Box 1137~~~East Greenwich RI  02818~01
+00000000~000703~AIMALEFOA SHORNY~PO Box 915~~~East Freetown MA 02717~01
+00000000~000704~ANNAJO MYNY~PO Box 7406~~~Cumberland RI  02864~01
+00000000~000705~ARNOUX STRAFACH~PO Box 945~~~Hope Valley RI  02832~01
+00000000~000706~ARU CREIGER~52 Donald Ave~~~Lincoln RI  02865~01
+00000000~000707~ATAULFO SCARPINSKI~16 Blackthorne Way~~~West Yarmouth MA 02673~01
+00000000~000708~AUNIKA LAUBUSCH~PO Box 51520~~~New Bedford MA 02745~01
+00000000~000709~AVNINDER CASTEGNARO SR~10 Anns Ln~~~Aurora IL  60505~01
+00000000~000710~AZZALEE MUSCATELLA~PO Box 647~~~Assonet MA    02702~01
+00000000~000711~BILLINGTON JENDZEIZYK~386 Swansom Rd~~~Swansea MA 02777~01
+00000000~000712~BIRDELLE BELLENDER~PO Box 2640~~~Attleboro Falls MA 02763~01
+00000000~000713~BLANCA MOYER~Pier 36~2 Cross St~~Colebrook NH 03576~01
+00000000~000714~BOSUN TOUBASSI~Ste 911~28 Beachview Ter~~Middletown RI  02842~01
+00000000~000715~BRANT T STORR~747 Avenue K~~~Ely NV 89301~01
+00000000~000716~BRENDAH SCHOENK~Apt 2~44 Mccallion St~~Swansea MA 02777~01
+00000000~000717~BRUCETTA TZEKAS~PO Box 1139~~~East Greenwich RI  02818~01
+00000000~000718~BVM BIBAEFF~PO Box 985~~~Mattapoisett MA 02739~01
+00000000~000719~BYE YOSHIMINE~PO Box 2890~~~Taunton MA 02780~01
+00000000~000720~BYSON YRAZABAL~PO Box 79388~~~North Dartmouth MA 02747~01
+00000000~000721~CANDAE GARNELLO~PO Box 2860~~~Taunton MA 02780~01
+00000000~000722~CARMALINDA GANDET~PO Box 7390~~~Cumberland RI  02864~01
+00000000~000723~CETTA SCROXTON~12 Chadsey Rd~~~North Kingstown RI  02852~01
+00000000~000724~CHARANE SCHOETKER~PO Box 51038~~~New Bedford MA 02745~01
+00000000~000725~CHARVETTA JESTEN~68 River Oak Rd~~~Barrington RI  02806~01
+00000000~000726~CHERLANN SANACHE JR~PO Box 9575~~~Downers Grove IL  60515~01
+00000000~000727~CHIONESO SHIGEO~PO Box 50140~~~New Bedford MA 02745~01
+00000000~000728~CHISM TINETIAH~10 Old Slab Bridge Rd~~~Assonet MA 02702~01
+00000000~000729~CHRISTY RAE KISS~11 Elm St~~~Augusta ME 04330~01
+00000000~000730~CIONDY HOLCEMBACK III~PO Box 1585~~~Warrenville IL 60555~01
+00000000~000731~CLIFDEN CORLLEY~PO Box 915~~~East Greenwich RI  02818~01
+00000000~000732~CLYDEL BOULDON~PO Box 51516~~~New Bedford MA 02745~01
+00000000~000733~CONSTANINE VELLIER~PO Box 79370~~~North Dartmouth MA 02747~01
+00000000~000734~COYE E GAWLIK~11 Mathews Ct~~~Laconia NH 03246~01
+00000000~000735~CRISTINA L SAUNDERS~10 Oshea Ln~~~Laconia NH 03246~01
+00000000~000736~CUNHA BUTKAY~PO Box 50138~~~New Bedford MA 02745~01
+00000000~000737~CUONG RLTY TRST~246 Bellvue Dr SE~~~Marietta GA 30060~01
+00000000~000738~CURNEL DAYTES~86 Gunning Ct~~~Middletown RI  02842~01
+00000000~000739~DANAYS SWARZMAN~PO Box 51510~~~New Bedford MA 02745~01
+00000000~000740~DAONNE CLODIO~PO Box 51546~~~New Bedford MA 02745~01
+00000000~000741~DARIEN NEW CANAAN UNITARIAN SO~748 Avenue L~~~Ely NV 89301~01
+00000000~000742~DARLESE PINCKES~PO Box 2259~~~Taunton MA 02780~01
+00000000~000743~DAVID BOOTHE WRAY~Apt 202k~18 Stillwater Cir~~Salem NH 03079~01
+00000000~000744~DEANDER BAJOMO~PO Box 7370~~~Cumberland RI  02864~01
+00000000~000745~DEELIA DESINORD~PO Box 51508~~~New Bedford MA 02745~01
+00000000~000746~DMARK KALCZUK~Apt 5~38 Forsythia Ct~~Coventry RI  02816~01
+00000000~000747~DUO PANE INDUSTRIES~1208 Avenue H~~~Brownwood TX  76801~01
+00000000~000748~EDWARFD KIESSELBACH~6 Monique Dr~~~Westport MA 02790~01
+00000000~000749~ELISETE TAKKOUSH~PO Box 50738~~~New Bedford MA 02745~01
+00000000~000750~ELMERE EMSUER~PO Box 2248~~~Taunton MA 02780~01
+00000000~000751~EMYLOU KAPUSTINA~34 Greenbrier Dr~~~New Bedford MA 02745~01
+00000000~000752~EPOLITO CIANTO~PO Box 617~~~Assonet MA  02702~01
+00000000~000753~EVADNIE YANKUN~73 Leila Jean Dr~~~Bristol RI  02809~01
+00000000~000754~FAIEZ GAVELDA~PO Box 7447~~~Cumberland RI  02864~01
+00000000~000755~FREYDOUN GRABANIA~PO Box 51526~~~New Bedford MA 02745~01
+00000000~000756~FUSSELL MERHAI~PO Box 51538~~~New Bedford MA 02745~01
+00000000~000757~GARY ABSHER~1113 Avenue A~~~Seaside OR 97138~01
+00000000~000758~GAYK SIENEL~PO Box 51548~~~New Bedford MA 02745~01
+00000000~000759~GENEANN SCHRENGER~21 Beech Hill Rd~~~Ashaway RI  02804~01
+00000000~000760~GENOVIEVE SIZEK~PO Box 35~~~Coventry RI  02816~01
+00000000~000761~GWLADYS KOBMAN~PO Box 7437~~~Cumberland RI  02864~01
+00000000~000762~HANDAYANI DURAES~Apt K~70 Birch Rd~~North Attleboro MA 02760~01
+00000000~000763~HARWANT GELAS~PO Box 2288~~~Taunton MA 02780~01
+00000000~000764~HASANALI YOUNADIM~PO Box 1129~~~East Greenwich RI  02818~01
+00000000~000765~HDEZ SCHOOPING~PO Box 2650~~~Attleboro Falls MA 02763~01
+00000000~000766~HELAYNA MASIGLAT~Apt 1~6 Prairie Ave~~Attleboro Falls MA~01
+00000000~000767~HERAN MELASHENKO~PO Box 2277~~~Taunton MA 02780~01
+00000000~000768~HUBERT M SAUNDERS~17 Robinwood Ln~~~Laconia NH 03246~01
+00000000~000769~HULSEY SHEPA~PO Box 51540~~~New Bedford MA 02745~01
+00000000~000770~INDRAWATI BERLEEN~PO Box 1330~~~Charlestown RI  02813~01
+00000000~000771~IOLETA CERTAINE JR~PO Box 2575~~~Warrenville IL 60555~01
+00000000~000772~JARED REMER~Ste 552~701 Avenue A~~Brownwood TX  76801~01
+00000000~000773~JEAN CARLOS BOAZ~16 Porter Rd~~~Fryeburg ME 04037~01
+00000000~000774~JEANELE JINX~82 Whitman Rd~~~Coventry RI  02816~01
+00000000~000775~JENEDA BOEM~78 Manning St~~~Fall River MA 02723~01
+00000000~000776~JHONI ADORETTI~Apt L8~86 Old Rd~~Chepachet RI 02814~01
+00000000~000777~JODD MERCHANTS~42 Dogwood Ln~~~North Kingstown RI  02852~01
+00000000~000778~JOHNK MERCHANTS~PO Box 79405~~~North Dartmouth MA 02747~01
+00000000~000779~JULIBETH INGALIS~PO Box 7418~~~Cumberland RI  02864~01
+00000000~000780~JULIETTA LOVELAND~Apt 206~2710 Avenue D~~Bay City TX  77414~01
+00000000~000781~JURANDIR BARDHI~24 Rutledge Dr~~~Attleboro Falls MA~01
+00000000~000782~KAGEN MAKEBAKKEN~186 Acres Of Pine Rd~~~Coventry RI  02816~01
+00000000~000783~KASTER NOPALA~PO Box 1119~~~East Greenwich RI  02818~01
+00000000~000784~KASTINA WEASTON~PO Box 915~~~North Attleboro MA 02761~01
+00000000~000785~KAZARYAN HOLLENSHADE~PO Box 875~~~North Dighton MA 02764~01
+00000000~000786~KEAK TIERSTEN~PO Box 50740~~~New Bedford MA 02745~01
+00000000~000787~KEELING BRAGNER~PO Box 2279~~~Taunton MA 02780~01
+00000000~000788~KEUK GETSI~PO Box 79407~~~North Dartmouth MA 02747~01
+00000000~000789~KEVELYN IWANSKY~PO Box 5~~~Coventry RI  02816~01
+00000000~000790~KEYVA MONTANARELLO~Apt 6~86 Sylvan Rd~~Chepachet RI 02814~01
+00000000~000791~KIRKHAM SCIE~PO Box 7378~~~Cumberland RI  02864~01
+00000000~000792~KITTIMA RUGINO~PO Box 50437~~~New Bedford MA 02745~01
+00000000~000793~KOLER SOMMERLUND~PO Box 79378~~~North Dartmouth MA 02747~01
+00000000~000794~KOLLENE BESCHINSKI III~# 7k~96 S Center St~~Plano IL  60545~01
+00000000~000795~KORRA RAA~PO Box 1150~~~East Greenwich RI  02818~01
+00000000~000796~KRYNN ROUSHON~PO Box 79390~~~North Dartmouth MA 02747~01
+00000000~000797~KYMIA GRANGENT~PO Box 7408~~~Cumberland RI  02864~01
+00000000~000798~LARGE SHILANSKY~PO Box 1370~~~Charlestown RI  02813~01
+00000000~000799~LAVANNE BARGOVAN~Apt N2~84 Newport Ave~~North Kingstown RI  02852~01
+00000000~000800~LAZANDA CESKE~248 Longhill Ave~~~Somerset MA 02726~01
+00000000~000801~LAZERICK SLINTAK~PO Box 915~~~Hope Valley RI  02832~01
+00000000~000802~LEILAND CAJIUAT~PO Box 825~~~Hope Valley RI  02832~01
+00000000~000803~LEJAY NAJIY~PO Box 2286~~~Taunton MA 02780~01
+00000000~000804~LETIC SCHIOPEN~54 Ryder Cir~~~North Attleboro MA 02760~01
+00000000~000805~LINNER YENULONIS~PO Box 1178~~~Bristol RI  02809~01
+00000000~000806~MAGLOIRE~9 North Rd~~~Berlin NH 03570~01
+00000000~000807~MANKI DASILUA~Apt Z-45~176 Peachtree Rd~~North Kingstown RI  02852~01
+00000000~000808~MARASHA CAKERICE~Ste 8~4 Prospect Hill St~~Raynham MA 02767~01
+00000000~000809~MARVALE PALIKIJ~PO Box 1115~~~East Greenwich RI  02818~01
+00000000~000810~MASANO LUNGSFORD~PO Box 51550~~~New Bedford MA 02745~01
+00000000~000811~MAYOLI DE ALWIS~PO Box 7470~~~Cumberland RI  02864~01
+00000000~000812~MAZDAK TRAUBEN~PO Box 1875~~~Fall River MA 02722~01
+00000000~000813~MCM / ASSOC~Spc 38~19 N Grant St~~Scottdale PA 15683~01
+00000000~000814~MICKELINA KRENECKI~PO Box 45~~~Somerset MA 02726~01
+00000000~000815~MICKIE R WILBURN~# 12~10 Bowman St~~Laconia NH 03246~01
+00000000~000816~MIKKAEL MEGETHING~50 Lenore Dr~~~North Attleboro MA 02760~01
+00000000~000817~MINGTA STRAGAPEDE~PO Box 645~~~Assonet MA    02702~01
+00000000~000818~MOANI KAVLOCK~PO Box 1310~~~Charlestown RI  02813~01
+00000000~000819~MOANI THAYAGAN~PO Box 7435~~~Cumberland RI  02864~01
+00000000~000820~MONIQUIE DOODNATH II~PO Box 2585~~~Warrenville IL 60555~01
+00000000~000821~MURRAL BUCCASIO~PO Box 51040~~~New Bedford MA 02745~01
+00000000~000822~MYRISIA DOMINIO~PO Box 79409~~~North Dartmouth MA 02747~01
+00000000~000823~MYRTIA DELAIARRO~PO Box 2865~~~Fall River MA 02722~01
+00000000~000824~NADANA JARRACH~PO Box 1955~~~Fall River MA 02722~01
+00000000~000825~NGUYEN~12 Belmont St~~~Salem NH 03079~01
+00000000~000826~NILAR CHRISTENSSON~PO Box 1125~~~East Greenwich RI  02818~01
+00000000~000827~PARM DAVISWORTH~PO Box 51536~~~New Bedford MA 02745~01
+00000000~000828~PATR S MORALEZ~Apt 2e~903 Avenue N~~Hondo TX  78861~01
+00000000~000829~PETER HATCH~Apt 14c~2205 Avenue H~~Bay City TX  77414~01
+00000000~000830~PIYANUCH BORGAILO~PO Box 1135~~~East Greenwich RI  02818~01
+00000000~000831~QUENESTA PUCELIK~Apt 9~96 Musket Rd~~Seekonk MA 02771~01
+00000000~000832~RALLIE HOCKSTOK~PO Box 79376~~~North Dartmouth MA 02747~01
+00000000~000833~RANARDO HUBSKY~PO Box 50439~~~New Bedford MA 02745~01
+00000000~000834~RICAHRD WICKWARE~745 Avenue D~~~Ely NV 89301~01
+00000000~000835~ROMIT ZAGHAB~PO Box 7468~~~Cumberland RI  02864~01
+00000000~000836~ROSENALDO EWEIS~# 855~64 Christopher Dr~~Lincoln RI  02865~01
+00000000~000837~SADAR DEKLEVER~PO Box 615~~~Assonet MA   02702~01
+00000000~000838~SALAMON~Spc G~561 6th Ave~~Berlin NH 03570~01
+00000000~000839~SANOBIA GATCHETT~PO Box 7380~~~Cumberland RI  02864~01
+00000000~000840~SANTAS THUILLIER~PO Box 79380~~~North Dartmouth MA 02747~01
+00000000~000841~SASKYA HSUI~Apt 76~60 Holmes St~~Rehoboth MA 02769~01
+00000000~000842~SATIS GROMMONS~PO Box 2250~~~Taunton MA 02780~01
+00000000~000843~SAVITRIE SKINNNER~472 Bridge St~~~Raynham MA    02767~01
+00000000~000844~SECIBEL DYKY~PO Box 1550~~~North Kingstown RI  02852~01
+00000000~000845~SEFA CHIPKAR~Apt 422~68 W Shore Dr~~Exeter RI  02822~01
+00000000~000846~SEFRA COCOVA~Apt 2~80 Burgess Rd~~Foster RI 02825~01
+00000000~000847~SEONGJIN MCGULGAN~# N~96 Spindrift Way~~Barrington RI  02806~01
+00000000~000848~SHAMSHUDDIN KASHIWAYA~PO Box 2270~~~Taunton MA 02780~01
+00000000~000849~SHANDLE BROZOST~PO Box 7449~~~Cumberland RI  02864~01
+00000000~000850~SHANDRY SUZUMURA~PO Box 1915~~~Fall River MA 02722~01
+00000000~000851~SHANNIKA HOSSEN~PO Box 1350~~~Charlestown RI  02813~01
+00000000~000852~SHARECA SYLLIEN~PO Box 2268~~~Taunton MA 02780~01
+00000000~000853~SHIKO SEGULA~# 6~70 Pequaw Honk Dr~~Little Compton RI  02837~01
+00000000~000854~SHUNDER MAJOVSKY~PO Box 7420~~~Cumberland RI  02864~01
+00000000~000855~SILESIA DIPARI~PO Box 2257~~~Taunton MA 02780~01
+00000000~000856~SIRISAK STELMOKAS~PO Box 51528~~~New Bedford MA 02745~01
+00000000~000857~SOJA GELMETE~PO Box 7466~~~Cumberland RI  02864~01
+00000000~000858~SOONBOK SCHEIMREIF~Apt 7f~36 Poplar Ct~~Coventry RI  02816~01
+00000000~000859~SOTO SMART~33 Avenue T~~~Seaside OR 97138~01
+00000000~000860~SQUAIR HEMAIDAN~70 State St~~~North Kingstown RI  02852~01
+00000000~000861~STEBBINS YOSI~30 Ann Record Ln~~~East Freetown MA 02717~01
+00000000~000862~STORMMY THARBS~PO Box 2895~~~Fall River MA 02722~01
+00000000~000863~SUBBALAKSHMI CHICKERY~PO Box 995~~~North Attleboro MA 02761~01
+00000000~000864~SUPALUCK TOPPILA~PO Box 2246~~~Taunton MA 02780~01
+00000000~000865~SURINDERJIT IMMERWAHR~20 Scot Cir~~~Charlestown RI  02813~01
+00000000~000866~SUZANNA W TROTTA~RR 1 Box 178~~~Augusta ME 04330~01
+00000000~000867~TALLMAN SCHLEPPEY~PO Box 629~~~Assonet MA    02702~01
+00000000~000868~TASHENNA SAVAY~PO Box 7376~~~Cumberland RI  02864~01
+00000000~000869~TENIE DEUBEN~Apt 1~40 N Pine Tree Ln~~Charlestown RI  02813~01
+00000000~000870~TENNE FEICH~PO Box 2266~~~Taunton MA 02780~01
+00000000~000871~TERENTIA ALTOPIEDI~PO Box 75~~~Foster RI 02825~01
+00000000~000872~TERILYNNE TARVAS~56 Heatley Pl~~~Fall River MA 02724~01
+00000000~000873~TERRIANA WEISZER~Apt 9~592 Franklin Rd~~Coventry RI  02816~01
+00000000~000874~THONGMY BARGHAUSEN~PO Box 619~~~Assonet MA    02702~01
+00000000~000875~TINASHA PRIVRASKY~PO Box 7460~~~Cumberland RI  02864~01
+00000000~000876~TITU STEENWERTH~PO Box 2648~~~Attleboro Falls MA 02763~01
+00000000~000877~TOBILYN BANDEALI~PO Box 955~~~East Greenwich RI  02818~01
+00000000~000878~TOMAHAWK SHARIFIE~PO Box 1127~~~East Greenwich RI  02818~01
+00000000~000879~TOMEGA DEVERLING~Ste 7~30 Crocus St~~Cumberland RI  02864~01
+00000000~000880~TONCI ABUSWAY~86 Bluff Rd~~~Harrisville RI  02830~01
+00000000~000881~TOSHIMICHI MEINEKER~PO Box 1145~~~East Greenwich RI  02818~01
+00000000~000882~TRACY DAWN PRIVETT~Apt Cv~1202 Calle De Barranca~~Redlands CA 92373~01
+00000000~000883~TRESSA R MORRO~RR 1 Box 104~~~Whitefield NH  03598~01
+00000000~000884~ULTRA OBORIL~PO Box 2668~~~Attleboro Falls MA 02763~01
+00000000~000885~VINESA SACHUN~Apt 60~502 Tripps Corner Rd~~Exeter RI  02822~01
+00000000~000886~WALCIE ABURABIA~70 Arcadia Way~~~Lincoln RI  02865~01
+00000000~000887~WANSOO BAYRAMKUL~PO Box 649~~~Assonet MA    02702~01
+00000000~000888~WRAE MARIGO~PO Box 2670~~~Attleboro Falls MA 02763~01
+00000000~000889~XIJUAN MARINGKA~PO Box 855~~~North Dighton MA 02764~01
+00000000~000890~YENTA FOLLADORI~PO Box 15~~~Somerset MA 02726~01
+00000000~000891~YEUGENIA CONDAS~PO Box 2290~~~Taunton MA 02780~01
+00000000~000892~YINET POPLOSKIE~Apt 7v~128 Dartmouth St~~Pawtucket RI  02860~01
+00000000~000893~YONDER NATHA~PO Box 7388~~~Cumberland RI  02864~01
+00000000~000894~YSABELLE ILOMIN~PO Box 51530~~~New Bedford MA 02745~01
+00000000~000895~YUEXIA MENGAY~PO Box 7439~~~Cumberland RI  02864~01
+00000000~000896~ZEBBRA GAHLENBECK~# Q3~28 Clara St~~Seekonk MA 02771~01
+00000000~000897~ZHILAN ACUSTA~PO Box 51518~~~New Bedford MA 02745~01
+00000000~000898~ZONE LENOSKY~74 Wamsutta Dr~~~North Attleboro MA 02760~01
+00000000~000899~ZRINKA SADANAND~6 Oak Hill Rd~~~Foster RI 02825~01
+00000000~000900~ZULMARIE SHOYINKA~PO Box 2925~~~Fall River MA 02722~01
+00000000~000901~Mr Michael Magrath~Apt 6F~59A Locust Av~~New Rochelle NY 10801~01
+00000000~000902~Ms. Sample902 Person902~110 Kettle Creek Rd~~~Weston CT  06883~01
+00000000~000903~Mr & Mrs Sample903 Person903~198 Oxford Rd~~~Southport CT  06890~01
+00000000~000904~Ms. Sample904 Person904~138 Forest Ave~~~Fairfield CT  06824~01
+00000000~000905~Mr & Mrs Sample905 Person905~750 Harbor Rd~~~Southport CT  06890~01
+00000000~000906~Mr & Mrs Sample906 Person906~41 Binney Ln~~~Old Greenwich CT  06870~01
+00000000~000907~Mrs. Sample907 Person907~18 Curiosity Ln~~~Weston CT  06883~01
+00000000~000908~Ms. Sample908 Person908~211 Wilton Rd~~~Westport CT  06880~01
+00000000~000909~Dr. Sample909 Person909~Maple Way, Rte. 35~~~South Salem NY 10590~01
+00000000~000910~Dr. Sample910 Person910~Old Post Road~~~South Salem NY 10590~01
+00000000~000911~Mr & Mrs Sample911 Person911~275 Old Church Rd~~~Greenwich CT  06830~01
+00000000~000912~Mrs. Sample912 Person912~11 Stonybrook Rd~~~Westport CT  06880~01
+00000000~000913~Mr & Mrs Sample913 Person913~432 Round Hill Rd~~~Greenwich CT  06831~01
+00000000~000914~Mr & Mrs Sample914 Person914~1831 Hillside Rd~~~Fairfield CT  06824~01
+00000000~000915~Mr & Mrs Sample915 Person915~98 Newtown Tpke~~~Westport CT  06880~01
+00000000~000916~Mr. Sample916 Person916~29 Peveril Rd~~~Stamford CT  06902~01
+00000000~000917~Mr. Sample917 Person917~83 Division St~~~Fairfield CT  06825~01
+00000000~000918~Mr. Sample918 Person918~83 Division St~~~Fairfield CT  06825~01
+00000000~000919~Mr & Mrs Sample919 Person919~96 E Elm St~~~Greenwich CT  06830~01
+00000000~000920~Mr. Sample920 Person920~Apt B-6~18 Prospect Ave~~Norwalk CT  06850~01
+00000000~000921~Mr. Sample921 Person921~Apt 18~160 W Cedar St~~Norwalk CT  06854~01
+00000000~000922~Mr. Sample922 Person922~High Ridge Park~PO Box 3800~~Stamford CT  06905~01
+00000000~000923~Mr & Mrs Sample923 Person923~201 E 69th St~~~New York NY 10021~01
+00000000~000924~Mr. Sample924 Person924~3 Quentin Rd~~~Westport CT  06880~01
+00000000~000925~Mr & Mrs Sample925 Person925~29 Keofferam Rd~~~Old Greenwich CT  06870~01
+00000000~000926~Mr & Mrs Sample926 Person926~19 Hill Rd~~~Greenwich CT  06830~01
+00000000~000927~Ms. Sample927 Person927~27 Darbrook Rd~~~Westport CT  06880~01
+00000000~000928~Mrs Sample928 Person928~208 Bayberry Ln~~~Westport CT  06880~01
+00000000~000929~Mr & Mrs Sample929 Person929~Oak Drive~~~Riverside CT  06878~01
+00000000~000930~Mr & Mrs Sample930 Person930~1465 Round Hill Rd~~~Fairfield CT  06824~01
+00000000~000931~Mr & Mrs Sample931 Person931~9 Riverbank Rd~~~Weston CT  06883~01
+00000000~000932~Ms. Sample932 Person932~2090 North Ave~~~Bridgeport CT  06604~01
+00000000~000933~Mr & Mrs Sample933 Person933~301 Shore Rd~~~Greenwich CT  06830~01
+00000000~000934~Mr & Mrs Sample934 Person934~9 Hermit Ln~~~Westport CT  06880~01
+00000000~000935~Mr & Mrs Sample935 Person935~581 Pequot Ave~~~Southport CT  06890~01
+00000000~000936~Mr & Mrs Sample936 Person936~The Barn~Deward Rd~~Greenwich CT  06830~01
+00000000~000937~Mrs. Sample937 Person937~33 Burr Farms Rd~~~Westport CT  06880~01
+00000000~000938~Mr & Mrs Sample938 Person938~37 Davis Hill Rd~~~Weston CT  06883~01
+00000000~000939~Mr. Sample939 Person939~61 Signal Hill Rd~~~Wilton CT  06897~01
+00000000~000940~Mr. Sample940 Person940~3282 Congress St~~~Fairfield CT  06824~01
+00000000~000941~Mr. Sample941 Person941~Sasco Hill Road~~~Fairfield CT  06824~01
+00000000~000942~Mr & Mrs Sample942 Person942~197 Longmeadow Rd~~~Fairfield CT  06824~01
+00000000~000943~Mr. Sample943 Person943~PO Box 75~~~Greenwich CT  06836~01
+00000000~000944~Ms. Sample944 Person944~11 Grange St~~~Greenwich CT  06830~01
+00000000~000945~Mr. Sample945 Person945~135 Zaccheus Mead Ln~~~Greenwich CT  06831~01
+00000000~000946~Mr & Mrs Sample946 Person946~5060 Congress St~~~Fairfield CT  06824~01
+00000000~000947~Mrs. Sample947 Person947~360 Greenley Rd~~~New Canaan CT  06840~01
+00000000~000948~Mr. Sample948 Person948~263 Culloden Rd~~~Stamford CT  06906~01
+00000000~000949~Mr & Mrs Sample949 Person949~71 Riverside Ave~~~Riverside CT  06878~01
+00000000~000950~Ms. Sample950 Person950~Goshen Hill Rd~RR 1~~Lebanon CT  06249~01
+00000000~000951~Ms Sample951 Person951~Comstock Hill Rd~PO Box 444~~Norwalk CT  06852~01
+00000000~000952~Mrs. Sample952 Person952~150 Salt Meadow Rd~~~Fairfield CT  06824~01
+00000000~000953~Dr. Sample953 Person953~287 Laurel Rd~~~New Canaan CT  06840~01
+00000000~000954~Mr. Sample954 Person954~Sheldon Piano Co.~21 Hillandale Ave~~Stamford CT  06902~01
+00000000~000955~Rabbi Sample955 Person955~383 Joan Dr~~~Fairfield CT  06824~01
+00000000~000956~Mr & Mrs Sample956 Person956~421 Sasco Hill Rd~~~Fairfield CT  06824~01
+00000000~000957~Mr & Mrs Sample957 Person957~43 Evergreen Ave~~~Westport CT  06880~01
+00000000~000958~Mr & Mrs Sample958 Person958~14 Old Belden Hill Rd~~~Wilton CT  06897~01
+00000000~000959~Ms. Sample959 Person959~195 North Ave~~~Westport CT  06880~01
+00000000~000960~Mr & Mrs Sample960 Person960~3 Willow Pk~~~Wellesley MA 02481~01
+00000000~000961~Hon & Mrs Sample961 Person961~25 B Eaton Ct~~~Wellesley MA 02481~01
+00000000~000962~Ms. Sample962 Person962~31 Washington St~2nd Fl~~Wellesley MA 02482~01
+00000000~000963~Mr & Mrs Sample963 Person963~Merchandising Accounting~PO Box 32012~~Lakeland FL  33802~01
+00000000~000964~Mr. Sample964 Person964~The Gramophone Shop~103 Main St~~New Canaan CT  06840~01
+00000000~000965~Mr & Mrs Sample965 Person965~628 Main St~~~Stamford CT  06901~01
+00000000~000966~Dr. Sample966 Person966~240 Silver Hill Rd~~~Easton CT  06612~01
+00000000~000967~Mr & Mrs Sample967 Person967~360 S Benson Rd~~~Fairfield CT  06824~01
+00000000~000968~Ms. Sample968 Person968~4029 Park Ave~~~Fairfield CT  06825~01
+00000000~000969~Mr & Mrs Sample969 Person969~46 Willow St~~~Southport CT  06890~01
+00000000~000970~Mr. Sample970 Person970~21 Charles St~~~Wellesley MA    02481~01
+00000000~000971~Mr. Sample971 Person971~11 Abbott Rd~~~Wellesley MA 02481~01
+00000000~000972~Mr. Sample972 Person972~9 MCCLEAN ST~~~Wellesley MA 02481~01
+00000000~000973~Mrs. Sample973 Person973~1 Willow St~~~Wellesley MA 02481~01
+00000000~000974~Ms. Sample974 Person974~22 River Ridge~~~Wellesley MA 02482~01
+00000000~000975~Mr. Sample975 Person975~9 Cedar St~~~Wellesley MA 02481~01
+00000000~000976~Mrs. Sample976 Person976~32B Linden St~~~Wellesley MA 02482~01
+00000000~000977~Mr. Sample977 Person977~PO Box 812-716~~~Wellesley MA 02481~01
+00000000~000978~Mr. Sample978 Person978~34 Cottage St~1st Fl~~Wellesley MA 02482~01
+00000000~000979~Mr. Sample979 Person979~34 Washington St~~~Wellesley MA 02482~01
+00000000~000980~Mr & Mrs Sample980 Person980~8-1/2 Slater St.~~~Webster MA 01570~01
+00000000~000981~Mr. Sample981 Person981~PO BOX 388~~~Brimfield MA 01010~01
+00000000~000982~Mr & Mrs Sample982 Person982~RR#2 Box 666~~~Holland MA 01521~01
+00000000~000983~Miss Sample983 Person983~RR2 Box 761~~~Holland MA 01521~01
+00000000~000984~Mr. Sample984 Person984~78 Perry St~~~Fairfield CT  06824-3815~01
+00000000~000985~Mr & Mrs Sample985 Person985~90 Brookside Rd~~~Darien CT 68203534~01
+00000000~000986~Mr & Mrs Sample986 Person986~95 Sunset Cir~~~Fairfield CT~01
+00000000~000987~Mr & Mrs Sample987 Person987~2 West St 3L~~~Dudley MA 01571~01
+00000000~000988~Mr & Mrs Sample988 Person988~54 Davis Hill Rd~~~Weston CT  06883~01
+00000000~000989~Mr. Sample989 Person989~Pitney Bowes Inc.~50 Wichaboag Valley~~West Brookfie MA 01585~01
+00000000~000990~Mr. Sample990 Person990~Pitney Bowes~20 Hilltop Dr~~Woodstock Val CT  06282~01
+00000000~000991~Mr. Sample991 Person991~Pitney Bowes~UNIT 4805~15727 LOCH MAREE LANE~DELRAY BEACH FL  33446~01
+00000000~000992~Mr. Sample992 Person992~Pitney Bowes~#11403~15306 STRATHEARN DRIVE~DELRAY BEACH FL  33446~01
+00000000~000993~Mr. Sample993 Person993~Pitney Bowes~LOT 4~16121 LOMOND HILLS TRAIL~DELRAY BEACH FL  33446~01
+00000000~000994~Ms. Sample994 Person994~Pitney Bowes~20 FERNWOOD ROAD~TORONTO ONTARIO CANADA~M6B3G4~01
+00000000~000995~Mr. Sample995 Person995~Pitney Bowes~27050 CEDAR RD #414~~BEACHWOOD OH  44122~01
+00000000~000996~Mr. Sample996 Person996~Pitney Bowes~# 143~16032 LOMOND HILLS TRAIL~DELRAY BEACH FL  33446~01
+00000000~000997~Mr. Sample997 Person997~Pitney Bowes~5192 CANDLEWOOD DRIVE~~FAYETTEVILLE N.Y. 13066~01
+00000000~000998~Mr. Sample998 Person998~Pitney Bowes~7373 CREEK VIEW COURT~~W. BLOOMFIELD MI  48322~01
+00000000~000999~Ms. Sample999 Person999~Pitney Bowes~APT B~101-B KIM TERRACE~STOUGHTON MA 02072~01
+00000000~001000~Mr. Sample1000 Person1000~Pitney Bowes~35 Waterview Dr~~Shelton CT  06484~01
+00000000~001001~Mr. Sample110 Person110~66 Cow Path Dr~~~Stamford CT  06902~01
+00000000~001002~Mr & Mrs Sample111 Person111~28 Silent Grv N~~~Westport CT  06880~01
+00000000~001003~Mr & Mrs Sample112 Person112~5 Druid Ln~~~Riverside CT  06878~01
+00000000~001004~Mr & Mrs Sample113 Person113~13 Tokeneke Trl~~~Darien CT  06820~01
+00000000~001005~Mr & Mrs Sample114 Person114~25 Stephanie Ln~~~Darien CT  06820~02
+00000000~001006~Mr. Sample115 Person115~27 Lynn Ct~~~Darien CT  06820~02
+00000000~001007~Mr. Sample116 Person116~103 Peck Rd~~~Bethany CT  06524~03
+00000000~001008~Mr & Mrs Sample117 Person117~32 Wright St~~~Westport CT  06880~01
+00000000~001009~Mr & Mrs Sample118 Person118~575 Hulls Farm Rd~~~Southport CT  06890~01
+00000000~001010~Mrs. Sample119 Person119~PO Box 1140~~~Southport CT    06890~02
+00000000~001011~Mrs. Sample120 Person120~Apt 1C~244 West St~~Mount Kisco NY 10549~01
+00000000~001012~Dr. & Mrs. Sample121 Person121~54 Compo Rd N~~~Westport CT  06880~04
+00000000~001013~Mr. Sample122 Person122~65 Whipstick Rd~~~Ridgefield CT  06877~05
+00000000~001014~Mr & Mrs Sample123 Person123~114 Greenwich Hills Dr~~~Greenwich CT  06831~06
+00000000~001015~Mr & Mrs Sample124 Person124~1 Orchard Hill Ct~~~Westport CT  06880~01
+00000000~001016~Ms. Sample125 Person125~15 Turkey Meadow Rd~~~Trumbull CT  06611~01
+00000000~001017~Mr. Sample126 Person126~17 Whippoorwill Ln~~~Westport CT  06880~05
+00000000~001018~Mr. Sample127 Person127~22 Covewood Dr~~~Norwalk CT  06853~06
+00000000~001019~Mrs. Sample129 Person129~93 Southport Woods Dr~~~Southport CT  06890~07
+00000000~001020~Mrs. Sample130 Person130~32 Southport Woods Dr~~~Southport CT  06890~01
+00000000~001021~Mr & Mrs Sample111 Person111~28 Silent Grv N~~~Westport CT  06880~01
+00000000~001022~Mr & Mrs Sample112 Person112~5 Druid Ln~~~Riverside CT  06878~01
+00000000~001023~Mr & Mrs Sample113 Person113~13 Tokeneke Trl~~~Darien CT  06820~02
+00000000~001024~Mr. Sample115 Person115~27 Lynn Ct~~~Darien CT  06820~01
+00000000~001025~Mr & Mrs Sample118 Person118~575 Hulls Farm Rd~~~Southport CT  06890~01
+00000000~001026~Mr & Mrs Sample124 Person124~1 Orchard Hill Ct~~~Westport CT  06880~03
+00000000~001027~Ms. Sample125 Person125~15 Turkey Meadow Rd~~~Trumbull CT  06611~04
+00000000~001028~Mrs. Sample130 Person130~32 Southport Woods Dr~~~Southport CT  06890~05
+00000000~001029~Mr & Mrs Sample112 Person112~5 Druid Ln~~~Riverside CT  06878~01
+00000000~001030~HILLJE MUSIC CENTER~175 ENTERPRISE PRKY~~~BOERNE TX  78006~01
+00000000~001031~DILLER-PALMER RANCH~BOX 7 SITE 25 RR #8~WILLCALGARY AB T2H2T9~~CANADA~01
+00000000~001032~GREAT SOUTHERN MUSIC~6148 A HWY 6N~~~HOUSTON TX   77084~01
+00000000~001033~LANCASTER MUSIC INC~902 N. I-35E~~~LANCASTER TX 75146~01
+00000000~001034~RHYTHM BAND INSTRUMENTS, INC.~P.O. BOX 40759~1400 Everman Pkwy~Ste 400~FORT WORTH TA 76140~01
+00000000~001035~STELLA BELLA TOYS~1360 CAMBRIDGE STREET~INMAN SQUARE~~CAMBRIDGE  MA 02139~01
+00000000~001036~WHITNEY MUSIC~913 N BUSINESS 71 STE 1~~~WILLMAR MN  56201~01
