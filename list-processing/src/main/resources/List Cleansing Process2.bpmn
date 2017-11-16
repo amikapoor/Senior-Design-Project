@@ -13,7 +13,7 @@
       <bpmn:sequenceFlow id="SequenceFlow_19303ju" sourceRef="Task_0voj3cv" targetRef="EndEvent_1w21usj" />
       <bpmn:dataObjectReference id="DataObjectReference_0b8tb5f" name="Mailing&#10;List" dataObjectRef="DataObject_0209pl4" />
       <bpmn:dataObject id="DataObject_0209pl4" />
-      <bpmn:serviceTask id="Task_0ra0ea8" name="List Cleansing" camunda:class="">
+      <bpmn:serviceTask id="Task_0ra0ea8" name="List Cleansing" camunda:class="org.camunda.bpm.listprocessing.JSONConverter">
         <bpmn:incoming>SequenceFlow_0gl5esk</bpmn:incoming>
         <bpmn:outgoing>SequenceFlow_1plvhj4</bpmn:outgoing>
         <bpmn:property id="Property_12hizwj" name="__targetRef_placeholder" />
