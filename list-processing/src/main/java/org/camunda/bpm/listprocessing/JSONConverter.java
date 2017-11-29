@@ -30,11 +30,11 @@ public class JSONConverter {
                if (flag) {
                    flag = false; 
                    //process header 
-                   columns = Arrays.asList(line.split(","));
+                   columns = Arrays.asList(line.split("~"));
                } else {
                    //to store the object temporarily
                    JsonObject obj = new JsonObject(); 
-                   List<String> chunks = Arrays.asList(line.split(","));
+                   List<String> chunks = Arrays.asList(line.split("~"));
 
                    for(int i = 0; i < columns.size(); i++) {
                        obj.addProperty(columns.get(i), chunks.get(i));
