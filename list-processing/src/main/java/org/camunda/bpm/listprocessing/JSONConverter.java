@@ -20,7 +20,7 @@ public class JSONConverter {
         // create an array called datasets
         JsonArray datasets = new JsonArray();
 
-        File file = new File("src/main/java/org.camunda.bpm.listprocessing/input.txt");
+        File file = new File("src/main/resources/META-INF/input.txt");
 
         try (BufferedReader br = new BufferedReader(new FileReader(file)))  {
             String line;
@@ -43,7 +43,7 @@ public class JSONConverter {
                } 
             }
         } catch(FileNotFoundException fnfe) {
-            System.out.println("File not found k.");
+            System.out.println("File not found.");
         } catch(IOException io) {
             System.out.println("Cannot read file.");
         }
