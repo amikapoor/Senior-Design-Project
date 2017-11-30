@@ -1,2 +1,4 @@
+org\camunda\bpm\listprocessing\JSONConverter.class
+org\camunda\bpm\listprocessing\ListMatching.class
 org\camunda\bpm\listprocessing\ListProcessingApplication.class
 org\camunda\bpm\listprocessing\ListCleansing.class

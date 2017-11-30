@@ -9,12 +9,12 @@ import java.io.IOException;
 public class ListMatching
 {    
     public static void main(String[] args) throws IOException  {    
-        BufferedReader reader1 = new BufferedReader(new FileReader("src/main/java/ortg.camunda.bpm.listprocessing/input.txt"));
+        BufferedReader reader1 = new BufferedReader(new FileReader("src/main/java/org.camunda.bpm.listprocessing/input.txt"));
          
         //BufferedReader reader2 = new BufferedReader(new FileReader("C:\\inputCorrect.txt"));
         
         //writes the updated input othe new file
-        BufferedWriter writer1 = new BufferedWriter(new FileWriter("src/main/java/ortg.camunda.bpm.listprocessing/fixed.txt"));
+        BufferedWriter writer1 = new BufferedWriter(new FileWriter("src/main/java/org.camunda.bpm.listprocessing/fixed.txt"));
          
         String line1 = reader1.readLine();
          
