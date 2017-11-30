@@ -3,34 +3,36 @@ package org.camunda.bpm.listprocessing;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
  
 public class ListMatching
 {    
-    public static void main(String[] args) throws IOException {    
-        BufferedReader reader1 = new BufferedReader(new FileReader("C:\\input.txt"));
+    public static void main(String[] args) throws IOException  {    
+        BufferedReader reader1 = new BufferedReader(new FileReader("src/main/java/ortg.camunda.bpm.listprocessing/input.txt"));
          
         //BufferedReader reader2 = new BufferedReader(new FileReader("C:\\inputCorrect.txt"));
         
-        BufferedWriter writer1 = new BufferedWriter(null);
+        //writes the updated input othe new file
+        BufferedWriter writer1 = new BufferedWriter(new FileWriter("src/main/java/ortg.camunda.bpm.listprocessing/fixed.txt"));
          
         String line1 = reader1.readLine();
          
         //String line2 = reader2.readLine();
          
-        boolean areEqual = true;
+       // boolean areEqual = true;
          
-        int lineNum = 1;
+        //int lineNum = 1;
         
         int i= 0; 
         while (line1 != null)
         {
-        	i = 0;
+        	i = 16;
         	//i starts at 0 and increments till it equals the size of the line
         	while(i < line1.length()) {
         		
         		//change the first letter to uppercase
-        		line1.substring(0,1).toUpperCase();
+        		line1.substring(16,17).toUpperCase();
         		
         		//scan for space
         		if(line1.charAt(i) == 32){
@@ -64,7 +66,7 @@ public class ListMatching
              
             //line2 = reader2.readLine();
              
-            lineNum++; //counting the number of line
+            //lineNum++; //counting the number of line
         
         }
         reader1.close();
