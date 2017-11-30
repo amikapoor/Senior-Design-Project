@@ -28,7 +28,7 @@ public class ListMatching
         while (line1 != null)
         {
         	i = 16;
-        	//i starts at 0 and increments till it equals the size of the line
+        	//i starts at 16 and increments till it equals the size of the line
         	while(i < line1.length()) {
         		
         		//change the first letter to uppercase
